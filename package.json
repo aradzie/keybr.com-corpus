@@ -1,0 +1,16 @@
+{
+  "name": "keybr.com-corpus",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate": "node generate.js"
+  },
+  "dependencies": {
+    "glob": "^10.3.10",
+    "wink-eng-lite-web-model": "^1.5.2",
+    "wink-nlp": "^1.14.3"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.2"
+  }
+}
