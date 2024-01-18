@@ -4,7 +4,6 @@ Airbus
 Allianz
 Amazon
 Amiga
-Apple
 Aramco
 Audi
 BMW
@@ -14,7 +13,6 @@ CHANEL
 CREC
 CSCEC
 Cadillac
-Chase
 Chevrolet
 Chrysler
 Cisco
@@ -86,8 +84,6 @@ SAP
 Saab
 Salesforce
 Samsung
-Services
-Shell
 Siemens
 Sinopec
 Sony

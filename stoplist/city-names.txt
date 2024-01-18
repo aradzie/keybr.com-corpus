@@ -108,7 +108,6 @@ Luxembourg
 Madrid
 Majuro
 Malabo
-Male
 Managua
 Manama
 Manila
@@ -144,7 +143,6 @@ Paramaribo
 Paris
 Penh
 Phnom
-Port
 Port-Vila
 Port-au-Prince
 Port-of-Spain

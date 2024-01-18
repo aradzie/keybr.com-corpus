@@ -811,6 +811,12 @@ Kreisstraße
 Kreistag
 Kreisverwaltung
 Kreuznach
+Krieg
+Kriege
+Kriegen
+Krieger
+Krieges
+Kriegs
 Kriegsführung
 Kriegsgefangene
 Kriegsgefangenen
@@ -1634,6 +1640,7 @@ Verwaltungsreformen
 Verwaltungssitz
 Vespasian
 Vesuv
+Vietnamkrieg
 Vila
 Vila
 Villach
@@ -1682,6 +1689,8 @@ Weiters
 Weizsäcker
 Welfen
 Weltcup
+Weltkrieg
+Weltkriegs
 Weltkulturerbe
 Weltrangliste
 Wenzel

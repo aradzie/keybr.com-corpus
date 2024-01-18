@@ -5,4 +5,5 @@ export const stoplist = loadStoplist()
   .add(["bspw", "bzw", "ca", "evtl", "inkl", "usw"])
   .addFile("german/stoplist.txt")
   .addFile("german/stoplist-cities.txt")
+  .addFile("german/stoplist-countries.txt")
   .addFile("german/stoplist-english.txt");

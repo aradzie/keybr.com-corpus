@@ -15,11 +15,9 @@ function checkpoint() {
 async function processCorpus(file) {
   let index = 0;
   for await (const line of readLines(file)) {
-    if (line.length > 100) {
-      for (const word of scanWords(line, en.testWord)) {
-        if (stoplist.allow(word)) {
-          dict.add(word);
-        }
+    for (const word of scanWords(line, en.testWord)) {
+      if (stoplist.allow(word)) {
+        dict.add(word);
       }
     }
     index += 1;

@@ -196,13 +196,11 @@ Andrews
 Android
 André
 Andy
-Angel
 Angela
 Angeles
 Angelina
 Angelique
 Angelo
-Anger
 Angus
 Anika
 Aniston
@@ -281,7 +279,6 @@ Arnold
 Aron
 Arquette
 Arran
-Art
 Artaud
 Artemis
 Arterton
@@ -316,15 +313,12 @@ Aubree
 Aubrey
 Audie
 Audrey
-August
 Augustus
-Aura
 Aurelia
 Aurora
 Aurélien
 Austin
 Autry
-Autumn
 Autumn-Rose
 Ava
 Ava-Grace
@@ -376,11 +370,9 @@ Bacall
 Bacon
 Baddeley
 Bailey
-Baker
 Baldwin
 Bale
 Balk
-Ball
 Balsam
 Bana
 Bancroft
@@ -413,7 +405,6 @@ Bauer
 Baumann
 Baxter
 Bea
-Bear
 Beatrice
 Beatrix
 Beatriz
@@ -432,7 +423,6 @@ Bejo
 Bela
 Belafonte
 Belasco
-Bell
 Bella
 Bella-Rose
 Bellamy
@@ -476,14 +466,12 @@ Bianca
 Bianka
 Biel
 Bilal
-Bill
 Billie
 Billy
 Bing
 Binoche
 Birch
 Bjorn
-Black
 Blair
 Blake
 Blanc
@@ -509,7 +497,6 @@ Bogdan
 Bonham
 Bonnie
 Boone
-Booth
 Borgnine
 Boris
 Boseman
@@ -537,7 +524,6 @@ Breslin
 Brett
 Brian
 Brianna
-Bridges
 Bridget
 Brie
 Brielle
@@ -552,7 +538,6 @@ Brooke
 Brooklyn
 Brooks
 Brougham
-Brown
 Bruce
 Bruno
 Bryan
@@ -575,7 +560,6 @@ Burstyn
 Burt
 Burton
 Busch
-Bush
 Bushman
 Buster
 Butler
@@ -592,7 +576,6 @@ Caden
 Cadi
 Caelan
 Caesar
-Cage
 Cagney
 Cai
 Caiden
@@ -661,7 +644,6 @@ Catalina
 Cate
 Catherine
 Cathy
-Cave
 Cavill
 Cayden
 Cazale
@@ -698,7 +680,6 @@ Charlize
 Charlot
 Charlotte
 Charlton
-Chase
 Chastain
 Chaya
 Cheadle
@@ -759,7 +740,6 @@ Clint
 Clinton
 Clooney
 Cloris
-Close
 Clover
 Clyde
 Cobb
@@ -782,7 +762,6 @@ Colley
 Collins
 Colman
 Colton
-Common
 Condell
 Connelly
 Conner
@@ -834,7 +813,6 @@ Crowe
 Cruise
 Cruz
 Cruze
-Crystal
 Cuba
 Culkin
 Cumberbatch
@@ -898,8 +876,6 @@ Dawn
 Dawson
 Dawud
 Dax
-Day
-Day-Lewis
 De
 Deacon
 Dean
@@ -938,7 +914,6 @@ Derrick
 Deschanel
 Desiree
 Dessoir
-Destiny
 Devrient
 Dexter
 Dhruv
@@ -1185,7 +1160,6 @@ Ezra
 Fabian
 Fairbanks
 Fairuza
-Faith
 Faizan
 Falconetti
 Fallon
@@ -1222,8 +1196,6 @@ Ferrer
 Fey
 Ffion
 Fiadh
-Field
-Fields
 Fiennes
 Fierstein
 Filip
@@ -1243,7 +1215,6 @@ Fischer
 Fishburne
 Fisher
 Fitzgerald
-Fleet
 Fletcher
 Fleur
 Fleury
@@ -1261,11 +1232,9 @@ Foote
 Forbes-Robertson
 Ford
 Foreman
-Forest
 Forrest
 Fosse
 Foster
-Fox
 Foxx
 Frances
 Francesca
@@ -1359,14 +1328,12 @@ Gianna
 Gibson
 Gideon
 Gielgud
-Gig
 Gigi
 Gilbert
 Gillette
 Gilliam
 Gillian
 Gina
-Ginger
 Gino
 Giorgio
 Giovambattista
@@ -1397,7 +1364,6 @@ Gosling
 Gossett
 Gough
 Goulet
-Grace
 Gracie
 Gracie-Mae
 Graciela
@@ -1406,10 +1372,8 @@ Graham
 Grahame
 Grammer
 Grande
-Grant
 Gray
 Grayson
-Green
 Greer
 Greg
 Gregory
@@ -1419,12 +1383,10 @@ Griffin
 Griffith
 Griffiths
 Gringore
-Gross
 Groucho
 Grover
 Groß
 Gruffydd
-Guest
 Guinness
 Guitry
 Gurbaaz
@@ -1463,7 +1425,6 @@ Hal
 Haleema
 Haley
 Halima
-Hall
 Hallam
 Halle
 Hallie
@@ -1532,8 +1493,6 @@ Hayley
 Hayworth
 Hazel
 Headey
-Heard
-Heath
 Heather
 Heckart
 Hector
@@ -1574,7 +1533,6 @@ Hiddleston
 Highmore
 Hilary
 Hilda
-Hill
 Hiller
 Himmler
 Hines
@@ -1592,11 +1550,9 @@ Holly
 Holm
 Holmes
 Homolka
-Honey
 Hooker
 Hoorain
 Hoover
-Hope
 Hopkins
 Hopper
 Horn
@@ -1622,10 +1578,7 @@ Hume
 Humphrey
 Humphries
 Hunnam
-Hunt
-Hunter
 Huppert
-Hurt
 Husna
 Hussain
 Huston
@@ -1802,7 +1755,6 @@ Jessel
 Jessica
 Jessie
 Jesus
-Jet
 Jett
 Jibreel
 Jill
@@ -1853,7 +1805,6 @@ José
 Jouvet
 Jovan
 Jovovich
-Joy
 Joyce
 Juan
 Juanita
@@ -1873,7 +1824,6 @@ Julio
 Julius
 June
 Jung
-Junior
 Juniper
 Juno
 Jurgens
@@ -1980,7 +1930,6 @@ Killian
 Kim
 Kimberly
 Kimmel
-King
 Kingsley
 Kingston
 Kinski
@@ -2138,7 +2087,6 @@ Lia
 Liam
 Liana
 Libby
-Liberty
 Lila
 Lilah
 Lili
@@ -2166,7 +2114,6 @@ Linney
 Lionel
 Lisa
 Lithgow
-Little
 Liu
 Liv
 Lively
@@ -2185,7 +2132,6 @@ Loki
 Lola
 Lombard
 Lon
-Long
 Lonne
 Lonnie
 Loomis
@@ -2314,7 +2260,6 @@ Marc
 Marceau
 Marcel
 Marcello
-March
 Marcia
 Marcie
 Marco
@@ -2395,7 +2340,6 @@ Maximillian
 Maximus
 Maxine
 Maxwell
-May
 Maya
 Mayer
 Maysa
@@ -2580,7 +2524,6 @@ Nate
 Nathalie
 Nathan
 Nathaniel
-Navy
 Naya
 Nayla
 Neal
@@ -2671,7 +2614,6 @@ Oakley
 Obama
 Obi
 Obie
-Ocean
 Octavia
 Odessa
 Odin
@@ -2682,7 +2624,6 @@ Okonedo
 Olaf
 Oldman
 Olga
-Olive
 Oliver
 Olivia
 Olivia-Rose
@@ -2722,10 +2663,8 @@ Owen
 Ozzie
 Ozzy
 Pablo
-Pace
 Pacino
 Paddy
-Page
 Pagliero
 Paige
 Paisley
@@ -2756,7 +2695,6 @@ Pauline
 Payne
 Payton
 Pearce
-Pearl
 Peary
 Peck
 Pedro
@@ -2799,7 +2737,6 @@ Pichel
 Pickford
 Pierce
 Pierre
-Pine
 Pinza
 Piper
 Pippa
@@ -2823,14 +2760,11 @@ Poul
 Poulain
 Poulsen
 Powell
-Power
 Pratt
 Preminger
 Presley
 Preston
-Price
 Primrose
-Prince
 Priscilla
 Prisha
 Priya
@@ -2838,7 +2772,6 @@ Priyanka
 Pryor
 Qasim
 Quayle
-Queen
 Quin
 Quincy
 Quinlan
@@ -2879,8 +2812,6 @@ Raquel
 Rares
 Rathbone
 Raul
-Raven
-Ray
 Raya
 Rayaan
 Rayan
@@ -2892,7 +2823,6 @@ Reagan
 Rebeca
 Rebecca
 Rebel
-Red
 Redd
 Redford
 Redgrave
@@ -2937,8 +2867,6 @@ Riaan
 Rian
 Ricardo
 Ricci
-Rice
-Rich
 Richard
 Richards
 Richardson
@@ -2956,7 +2884,6 @@ Rio
 Rishi
 Rita
 Riva
-River
 Rivera
 Riya
 Riyan
@@ -2975,7 +2902,6 @@ Robin
 Robinson
 Robyn
 Rocco
-Rock
 Rockwell
 Rocky
 Rod
@@ -3017,7 +2943,6 @@ Rosalind
 Rosanna
 Rosario
 Roscoe
-Rose
 Rosemary
 Rosie
 Ross
@@ -3031,7 +2956,6 @@ Roy
 RuPaul
 Ruairi
 Ruben
-Ruby
 Ruby-Rose
 Rudd
 Rudi
@@ -3045,7 +2969,6 @@ Rukh
 Rumaysa
 Rupert
 Ruqayyah
-Rush
 Russell
 Russo
 Ruth
@@ -3217,7 +3140,6 @@ Siya
 Siyana
 Skelton
 Skinner
-Sky
 Skye
 Skyla
 Skylar
@@ -3270,9 +3192,6 @@ Stevie
 Stewart
 Stiller
 Stockard
-Stone
-Storm
-Straight
 Stranitzky
 Strasberg
 Strathairn
@@ -3291,9 +3210,7 @@ Suleiman
 Sullivan
 Sultan
 Sumayyah
-Summer
 Sunday
-Sunny
 Susan
 Susannah
 Susanne
@@ -3342,7 +3259,6 @@ Teddie
 Teddy
 Teddy-James
 Teller
-Temple
 Teo
 Teodor
 Teodora
@@ -3454,7 +3370,6 @@ Valentine
 Valentino
 Valerie
 Valli
-Van
 Vanessa
 Veer
 Velma
@@ -3495,7 +3410,6 @@ Wade
 Wagner
 Wahlberg
 Walken
-Walker
 Wallace
 Wallach
 Wallack
@@ -3529,10 +3443,8 @@ Welles
 Wendy
 Werner
 Wesley
-West
 Wheeler
 Whitaker
-White
 Whitney
 Whoopi
 Wiest
@@ -3541,14 +3453,12 @@ Wiktor
 Wiktoria
 Wilbur
 Wilde
-Wilder
 Wiley
 Wilf
 Wilfred
 Wilhelm
 Wilkes
 Wilkinson
-Will
 Willard
 Willem
 William
@@ -3569,18 +3479,14 @@ Winona
 Winslet
 Winston
 Winstone
-Winter
 Winters
 Witherspoon
 Wladimir
-Wolf
 Wolfe
 Wolff
 Wong
-Wood
 Woodley
 Woodrow
-Woods
 Woodward
 Woody
 Wray
@@ -3605,7 +3511,6 @@ Yasmine
 Yazan
 Yolanda
 York
-Young
 Younger
 Yousef
 Yousif

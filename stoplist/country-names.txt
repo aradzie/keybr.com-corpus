@@ -36,7 +36,6 @@ Burundi
 Cambodia
 Cameroon
 Canada
-Central
 Chad
 Chile
 China
@@ -73,7 +72,6 @@ Gambia
 Georgia
 Germany
 Ghana
-Great
 Greece
 Greenland
 Grenada
@@ -142,7 +140,6 @@ Nauru
 Nepal
 Netherlands
 Nevis
-New
 Nicaragua
 Niger
 Nigeria
@@ -159,7 +156,6 @@ Poland
 Portugal
 Principe
 Qatar
-Republic
 Rica
 Romania
 Russia
@@ -180,7 +176,6 @@ Solomon
 Somalia
 Spain
 Sri
-States
 Sudan
 Suriname
 Swaziland
@@ -202,7 +197,6 @@ Turkmenistan
 Tuvalu
 Uganda
 Ukraine
-United
 Uruguay
 Uzbekistan
 Vanuatu

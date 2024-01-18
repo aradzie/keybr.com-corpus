@@ -3,13 +3,18 @@ import { Dict } from "./lib/dict.js";
 import { pathTo, writeDict } from "./lib/io.js";
 import { languages } from "./lib/languages.js";
 import { scanWords } from "./lib/words.js";
+import { loadStoplist } from "./stoplist/stoplist.js";
+
+const stoplist = loadStoplist();
 
 for (const language of languages) {
   const dict = new Dict(language);
   const corpus = readCorpus(language.id);
   if (corpus != null) {
     for (const word of scanWords(corpus, language.testWord)) {
-      dict.add(word);
+      if (stoplist.allow(word)) {
+        dict.add(word);
+      }
     }
     writeDict(language, dict.build());
     console.log(`[${language.id}] Generated frequency list`);
