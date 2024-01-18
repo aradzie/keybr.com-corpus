@@ -1560,6 +1560,7 @@ Hepburn
 Herbert
 Herbie
 Herman
+Hermann
 Hermione
 Hernandez
 Herrmann
@@ -2784,6 +2785,7 @@ Phelps
 Phil
 Philip
 Philipe
+Philipp
 Philippa
 Phillip
 Phillippe

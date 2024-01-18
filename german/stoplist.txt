@@ -39,6 +39,7 @@ Amtssprachen
 Ancien
 Anime
 Anjou
+Anschluss
 Ansel
 Antikörpern
 Antimon
@@ -180,9 +181,11 @@ Borna
 Bottrop
 Bozen
 Brahe
+Brandenburg
 Braque
 Brasiliens
 Breisgau
+Bremen
 Bremervörde
 Brentano
 Bretagne
@@ -283,6 +286,7 @@ Cornelius
 Corporation
 Corps
 Corpus
+Cortes
 Cosimo
 Countys
 Coverversion
@@ -331,6 +335,7 @@ Dornbirn
 Dornbirner
 Dossenheim
 Draft
+Dresden
 Dreyfus
 Dschihad
 Duchamp
@@ -457,6 +462,7 @@ Fortuna
 Foucault
 Frankenreich
 Frankenthal
+Frankfurt
 Frauenbewegung
 Frauenkirche
 Frauenwahlrecht
@@ -518,6 +524,7 @@ Gemeindewappen
 Generalversammlung
 Genesis
 Gent
+Georg
 Georgiens
 Gera
 Gerichtsbezirk
@@ -605,10 +612,13 @@ Halifax
 Hallein
 Haller
 Hamas
+Hamburg
 Hameln
 Hamm
 Hammurapi
 Hanau
+Hannibal
+Hannover
 Hanns
 Hansa
 Hansen
@@ -624,6 +634,7 @@ Haushaltsdefizit
 Havanna
 Havel
 Hawking
+Haydn
 Heerführer
 Heidegger
 Heilbronner
@@ -705,6 +716,7 @@ Inuit
 Io
 Iod
 Irak
+Irland
 Irokesen
 Iserlohn
 Islam
@@ -824,6 +836,7 @@ Kurzfilm
 Kyros
 Kärntner
 Kästner
+Köln
 Königreiches
 Königtum
 Körpergewicht
@@ -866,6 +879,7 @@ Legio
 Legio
 Lehen
 Lehnwörter
+Leipzig
 Lemberg
 Lenin
 Leonberg
@@ -900,6 +914,7 @@ Lucius
 Luckenwalde
 Ludwigsburg
 Luftangriff
+Luftangriffen
 Luftlinie
 Luftschiff
 Luftstreitkräfte
@@ -926,6 +941,7 @@ Manga
 Mangas
 Manifest
 Mannigfaltigkeiten
+Manns
 Mans
 Mao
 Marbach
@@ -988,6 +1004,7 @@ Modigliani
 Modiglianis
 Moers
 Moldau
+Moltke
 Monde
 Monet
 Monets
@@ -1019,6 +1036,7 @@ Mönch
 Mörike
 Mühlhausen
 Mülheim
+München
 Münsterland
 Münter
 Nachbargemeinden
@@ -1026,7 +1044,9 @@ Nachbarländern
 Nachbarorte
 Nachbarstaaten
 Nacional
+Nakhon
 Namensgeber
+Napoleon
 Nationalmuseum
 Nationalsozialismus
 Nationalsozialisten
@@ -1071,6 +1091,7 @@ Nordhausen
 Nordmazedonien
 Nordrand
 Nordstaaten
+Northeim
 Norwegens
 Novalis
 Novelle
@@ -1100,6 +1121,7 @@ Oktave
 Oldenburger
 Olpe
 Ontario
+Oppenheimer
 Oranienburg
 Orchestra
 Ordnungszahl
@@ -1183,6 +1205,7 @@ Plauen
 Playoffs
 Pleistozän
 Plinius
+Polen
 Pompeius
 Popmusik
 Porta
@@ -1323,6 +1346,7 @@ Satanismus
 Sauerland
 Saussure
 Savoyen
+Schaft
 Scharia
 Scharon
 Schauspielern
@@ -1335,6 +1359,7 @@ Schopenhauer
 Schulgebäude
 Schumann
 Schwarzenberg
+Schweden
 Schwedens
 Schwefeldioxid
 Schweinfurt
@@ -1464,6 +1489,7 @@ Studioalbum
 Studios
 Stundentakt
 Stundentakt
+Stuttgart
 Städtepartnerschaft
 Stühlingen
 Sueben
@@ -1564,6 +1590,7 @@ Turksprachen
 Twain
 Twistringen
 Tyrannis
+Tyros
 Täufer
 Tönnies
 Tübinger
@@ -1659,6 +1686,8 @@ Weltkulturerbe
 Weltrangliste
 Wenzel
 Werefkin
+Wertheim
+Wertheim
 Wesel
 Westerland
 Westerwald
@@ -1671,6 +1700,7 @@ Wetzlar
 Wetzlarer
 Wicca
 Wiederaufstieg
+Wien
 Wiens
 Wiesbadener
 Wiesloch
@@ -1728,6 +1758,7 @@ Zwischenkriegszeit
 Züge
 Zügen
 Zürcher
+Zürich
 abschloss
 amp
 annahm
