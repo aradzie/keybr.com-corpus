@@ -1,0 +1,46 @@
+Albany
+Annapolis
+Atlanta
+Augusta
+Austin
+Baton Rouge
+Bismarck
+Boise
+Boston
+Carson
+Charleston
+Cheyenne
+Columbia
+Columbus
+Concord
+Denver
+Des Moines
+Dover
+Frankfort
+Harrisburg
+Hartford
+Helena
+Honolulu
+Indianapolis
+Jackson
+Jefferson
+Juneau
+Lansing
+Lincoln
+Madison
+Montgomery
+Montpelier
+Nashville
+Oklahoma
+Olympia
+Phoenix
+Pierre
+Providence
+Raleigh
+Sacramento
+Salem
+Santa Fe
+Springfield
+Tallahassee
+Topeka
+Trenton
