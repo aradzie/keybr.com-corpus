@@ -1,12 +1,10 @@
-import { readFileSync } from "node:fs";
-import { pathTo } from "../lib/io.js";
 import { Stoplist } from "../lib/stoplist.js";
 
 // https://design215.com/toolbox/wordlist.php
 
 export function loadStoplist() {
   const stoplist = new Stoplist();
-  for (const item of [
+  for (const file of [
     "stoplist/brand-names.txt",
     "stoplist/city-names.txt",
     "stoplist/country-names.txt",
@@ -17,9 +15,7 @@ export function loadStoplist() {
     "stoplist/roman-numerals.txt",
     "stoplist/profanity.txt",
   ]) {
-    const text = readFileSync(pathTo(item), "utf-8");
-    const words = text.split(/\s+/g);
-    stoplist.add(words);
+    stoplist.addFile(file);
   }
   return stoplist;
 }
