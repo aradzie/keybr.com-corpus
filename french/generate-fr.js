@@ -6,6 +6,7 @@ await processCorpus({
   language: fr,
   file: ["/home/caustic/Downloads/corpus/opensubtitles/fr.txt"],
   stoplist: loadStoplist()
-    .addFile("french/stoplist.txt")
-    .addFile("french/stoplist-english.txt"),
+    .addFile("french/stoplist-profanity.txt")
+    .addFile("french/stoplist-english.txt")
+    .add("âcdeéhijlmnosu".split("")),
 });

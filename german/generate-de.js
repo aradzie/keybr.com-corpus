@@ -11,9 +11,10 @@ await processCorpus({
   stoplist: loadStoplist()
     .add(["com", "eng", "etc", "www", "org", "inc"])
     .add(["bspw", "bzw", "ca", "evtl", "inkl", "usw"])
-    .addFile("german/stoplist.txt")
     .addFile("german/stoplist-cities.txt")
     .addFile("german/stoplist-countries.txt")
-    .addFile("german/stoplist-english.txt"),
+    .addFile("german/stoplist-english.txt")
+    .addFile("german/stoplist-misc.txt")
+    .addFile("german/stoplist-profanity.txt"),
   DictType: MultiDict,
 });
