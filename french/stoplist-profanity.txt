@@ -1,6 +1,8 @@
 abruti
 amputer
 andouille
+assaut
+attentat
 avorton
 batard
 beauf
@@ -71,6 +73,7 @@ crouillat
 crouille
 crétin
 cul
+culs
 debile
 deguelasse
 demerder
@@ -79,6 +82,9 @@ disputent
 disputer
 disputes
 disputez
+drogue
+drogues
+droguer
 drouille
 ducon
 duconnot
@@ -125,6 +131,7 @@ fouteur
 foutre
 fritz
 fumier
+fusillade
 garce
 gaupe
 gland
@@ -151,6 +158,8 @@ magot
 manche
 marchandot
 margouilliste
+massacre
+massacrer
 mauviette
 merdaille
 merdaillon
@@ -173,6 +182,8 @@ monacaille
 moricaud
 nase
 naze
+nazi
+nazis
 negro
 niac
 niaiseux
@@ -210,6 +221,9 @@ pute
 putes
 putin
 pédale
+pédales
+pédophile
+pédophiles
 pédoque
 pédé
 pédés
@@ -235,6 +249,8 @@ saloperie
 saloperies
 salopes
 salopette
+sanglant
+sanglants
 satrouille
 schbeb
 schleu
@@ -250,6 +266,8 @@ tapette
 tarlouze
 tebe
 tebé
+testicule
+testicules
 teteux
 teube
 teubé
@@ -258,9 +276,18 @@ trainee
 trouduc
 truiasse
 téteux
+vagin
+vagins
 vaurien
 viedase
 vier
+viol
+viole
+violemment
+violer
+violeur
+violé
+violée
 viédase
 xeropineur
 xéropineur
