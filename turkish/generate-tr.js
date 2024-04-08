@@ -8,6 +8,7 @@ async function processDict() {
   const stoplist = loadStoplist()
     .addFile("turkish/stoplist-english.txt")
     .addFile("turkish/stoplist-profanity.txt")
+    .addFile("turkish/stoplist-garbage.txt")
     .delete("bana", "ben", "de", "geri", "hadi", "mi", "ne", "sana", "ve");
   // const aspell = Aspell.tryMake(tr);
   const dict = new Map();
