@@ -1,6 +1,6 @@
+import { loadBlacklist } from "../blacklist/blacklist.js";
 import { processCorpus } from "../lib/corpus.js";
 import { MultiDict } from "../lib/dict.js";
-import { loadStoplist } from "../stoplist/stoplist.js";
 import { de } from "./de.js";
 
 // https://github.com/GermanT5/wikipedia2corpus
@@ -8,13 +8,13 @@ import { de } from "./de.js";
 await processCorpus({
   language: de,
   file: ["/home/caustic/Downloads/corpus/dewiki-20220201-clean.txt"],
-  stoplist: loadStoplist()
+  blacklist: loadBlacklist()
     .add(["com", "eng", "etc", "www", "org", "inc"])
     .add(["bspw", "bzw", "ca", "evtl", "inkl", "usw"])
-    .addFile("lang-de/stoplist-cities.txt")
-    .addFile("lang-de/stoplist-countries.txt")
-    .addFile("lang-de/stoplist-english.txt")
-    .addFile("lang-de/stoplist-misc.txt")
-    .addFile("lang-de/stoplist-profanity.txt"),
+    .addFile("lang-de/blacklist-cities.txt")
+    .addFile("lang-de/blacklist-countries.txt")
+    .addFile("lang-de/blacklist-english.txt")
+    .addFile("lang-de/blacklist-misc.txt")
+    .addFile("lang-de/blacklist-profanity.txt"),
   DictType: MultiDict,
 });
