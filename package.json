@@ -6,11 +6,11 @@
     "generate": "node generate.js"
   },
   "dependencies": {
-    "glob": "^10.3.10",
-    "wink-eng-lite-web-model": "^1.5.2",
-    "wink-nlp": "^1.14.3"
+    "glob": "^10.3.12",
+    "wink-eng-lite-web-model": "^1.6.0",
+    "wink-nlp": "^2.2.0"
   },
   "devDependencies": {
-    "prettier": "^3.2.2"
+    "prettier": "^3.2.5"
   }
 }
