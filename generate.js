@@ -7,7 +7,7 @@ import { loadStoplist } from "./stoplist/stoplist.js";
 const stoplist = loadStoplist();
 
 for (const language of languages) {
-  const file = pathTo(`corpus`, `corpus-${language.id}.txt`);
+  const file = pathTo(`lang-${language.id}`, `corpus.txt`);
   if (existsSync(file)) {
     await processCorpus({ language, file, stoplist });
   }
