@@ -45,7 +45,6 @@ actress
 acts
 actual
 actually
-ad
 adam
 adams
 add
@@ -104,7 +103,6 @@ air
 aircraft
 airplane
 airport
-al
 alan
 alarm
 albert
@@ -261,7 +259,6 @@ article
 artist
 artists
 arts
-as
 ash
 ashamed
 ashes
@@ -287,7 +284,6 @@ assume
 assumed
 assuming
 assure
-at
 ate
 atmosphere
 attached
@@ -305,6 +301,7 @@ attracted
 attractive
 auction
 audience
+audio
 audition
 audrey
 august
@@ -320,7 +317,6 @@ available
 avenue
 average
 avoid
-aw
 awake
 award
 aware
@@ -329,7 +325,6 @@ awesome
 awful
 awfully
 awkward
-ay
 aye
 babe
 babies
@@ -393,7 +388,6 @@ batman
 battery
 battle
 bay
-be
 beach
 beam
 beans
@@ -528,7 +522,6 @@ blown
 blows
 blue
 blues
-bo
 board
 boarding
 boat
@@ -1295,7 +1288,6 @@ delivered
 delivery
 demand
 demands
-demo
 democracy
 demon
 demons
@@ -1345,7 +1337,6 @@ developed
 development
 device
 devil
-di
 dial
 diamond
 diamonds
@@ -1413,7 +1404,6 @@ divorce
 divorced
 dizzy
 dna
-do
 doc
 doctor
 doctors
@@ -1530,7 +1520,6 @@ eating
 eats
 economic
 economy
-ed
 eddie
 edge
 editor
@@ -1547,7 +1536,6 @@ egypt
 eh
 eight
 either
-el
 elder
 election
 electric
@@ -1567,7 +1555,6 @@ ellie
 elliot
 else
 elsewhere
-em
 embarrassed
 embarrassing
 embassy
@@ -1583,7 +1570,6 @@ empire
 employee
 employees
 empty
-en
 encounter
 end
 ended
@@ -1634,7 +1620,6 @@ escort
 especially
 established
 estate
-et
 eternal
 eternity
 ethan
@@ -1658,8 +1643,6 @@ everything
 everywhere
 evidence
 evil
-ew
-ex
 exact
 exactly
 exam
@@ -1906,6 +1889,7 @@ forth
 fortunate
 fortunately
 fortune
+forum
 forward
 foster
 fought
@@ -1928,7 +1912,6 @@ fraud
 freak
 freaked
 freaking
-freaks
 fred
 freddie
 freddy
@@ -1951,7 +1934,6 @@ from
 front
 frozen
 fruit
-fu
 fuck
 fucked
 fucker
@@ -2046,7 +2028,6 @@ gloria
 glorious
 glory
 gloves
-go
 goal
 goat
 god
@@ -2288,7 +2269,6 @@ hitler
 hits
 hitting
 hiya
-ho
 hockey
 hold
 holding
@@ -2373,7 +2353,6 @@ hush
 hut
 ian
 ice
-id
 idea
 ideal
 ideas
@@ -2383,14 +2362,11 @@ identity
 idiot
 idiots
 idol
-if
 ignore
-ii
 ill
 illegal
 illness
 illusion
-im
 image
 images
 imagination
@@ -2491,14 +2467,12 @@ involved
 iraq
 irish
 iron
-is
 island
 islands
 isn
 israel
 issue
 issues
-it
 italian
 italy
 item
@@ -2506,7 +2480,6 @@ items
 its
 itself
 ivan
-ja
 jack
 jacket
 jackie
@@ -2553,7 +2526,6 @@ jill
 jim
 jimmy
 jin
-jo
 joan
 job
 jobs
@@ -2676,7 +2648,6 @@ korean
 kung
 kurt
 kyle
-la
 lab
 labor
 lack
@@ -2728,7 +2699,6 @@ lawyers
 lay
 laying
 lazy
-le
 lead
 leader
 leaders
@@ -2773,7 +2743,6 @@ letting
 level
 levels
 lewis
-li
 liam
 liar
 liberty
@@ -2825,7 +2794,6 @@ lives
 living
 liz
 lloyd
-lo
 load
 loaded
 loads
@@ -2893,7 +2861,6 @@ lungs
 luxury
 lydia
 lying
-ma
 mac
 machine
 machines
@@ -2983,7 +2950,6 @@ may
 maya
 maybe
 mayor
-me
 meal
 meals
 mean
@@ -3031,7 +2997,6 @@ method
 methods
 mexican
 mexico
-mi
 mia
 miami
 michael
@@ -3082,7 +3047,6 @@ mitch
 mitchell
 mix
 mixed
-mo
 moaning
 mob
 mobile
@@ -3161,7 +3125,6 @@ must
 myself
 mysterious
 mystery
-na
 nah
 nail
 nails
@@ -3240,7 +3203,6 @@ nikki
 nina
 nine
 ninja
-no
 noah
 noble
 nobody
@@ -3291,7 +3253,6 @@ ocean
 october
 odd
 odds
-of
 off
 offended
 offense
@@ -3307,7 +3268,6 @@ officially
 often
 oh
 ohh
-oi
 oil
 ok
 okay
@@ -3339,7 +3299,6 @@ opportunity
 opposite
 option
 options
-or
 orange
 orbit
 order
@@ -3369,7 +3328,6 @@ oven
 over
 overcome
 overnight
-ow
 owe
 owen
 owes
@@ -3379,7 +3337,6 @@ owner
 owners
 owns
 oxygen
-pa
 pace
 pacific
 pack
@@ -3808,7 +3765,6 @@ rats
 raw
 ray
 raymond
-re
 reach
 reached
 reaching
@@ -4272,7 +4228,6 @@ showing
 shown
 shows
 shut
-si
 sick
 sid
 side
@@ -4844,7 +4799,6 @@ tires
 tissue
 title
 tits
-to
 toast
 toby
 today
@@ -4982,7 +4936,6 @@ ugly
 uh
 uhh
 ultimate
-un
 unable
 unbelievable
 uncle
@@ -5015,14 +4968,12 @@ unless
 unlike
 until
 unusual
-up
 upon
 upper
 upset
 upside
 upstairs
 urgent
-us
 use
 used
 useful
@@ -5046,7 +4997,6 @@ vanished
 various
 vast
 vault
-ve
 vegas
 vegetables
 vehicle
@@ -5150,7 +5100,6 @@ waves
 way
 wayne
 ways
-we
 weak
 weakness
 wealth
@@ -5301,13 +5250,10 @@ writing
 written
 wrong
 wrote
-wu
-ya
 yang
 yard
 yards
 yay
-ye
 yeah
 year
 years
@@ -5320,7 +5266,6 @@ yep
 yes
 yesterday
 yet
-yo
 york
 you
 young
@@ -5330,7 +5275,6 @@ yours
 yourself
 yourselves
 youth
-yu
 yup
 zero
 zoe

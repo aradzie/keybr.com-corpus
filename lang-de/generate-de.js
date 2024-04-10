@@ -13,8 +13,8 @@ await processCorpus({
     .add(["bspw", "bzw", "ca", "evtl", "inkl", "usw"])
     .addFile("lang-de/blacklist-cities.txt")
     .addFile("lang-de/blacklist-countries.txt")
-    .addFile("lang-de/blacklist-english.txt")
     .addFile("lang-de/blacklist-misc.txt")
-    .addFile("lang-de/blacklist-profanity.txt"),
+    .addFile("lang-de/blacklist-profanity.txt")
+    .addFile("blacklist/english.txt"),
   DictType: MultiDict,
 });

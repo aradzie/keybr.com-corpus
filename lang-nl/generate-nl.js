@@ -7,6 +7,6 @@ await processCorpus({
   file: ["~/Downloads/corpus/opensubtitles/nl.txt"],
   blacklist: loadBlacklist()
     .addFile("lang-nl/blacklist-profanity.txt")
-    .addFile("lang-nl/blacklist-english.txt")
+    .addFile("blacklist/english.txt")
     .add("a,e,es,ge,i,o,on,se,y".split(",")),
 });
