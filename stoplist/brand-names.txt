@@ -45,11 +45,13 @@ Instagram
 Intel
 Isuzu
 Iveco
+Java
 Jeep
 Kia
 LG
 Lexus
 Lincoln
+Linux
 Louis Vuitton
 Lowe's
 Marlboro
@@ -103,6 +105,7 @@ Toyota
 UPS
 Uber
 UnitedHealthcare
+Unix
 VISA
 Verizon
 Volkswagen
@@ -111,6 +114,7 @@ Walgreens
 Walmart
 WeChat
 Wells Fargo
+Windows
 Wuliangye
 Xfinity
 YouTube
