@@ -7,7 +7,7 @@ import { de } from "./de.js";
 
 await processCorpus({
   language: de,
-  file: ["/home/caustic/Downloads/corpus/dewiki-20220201-clean.txt"],
+  file: ["~/Downloads/corpus/dewiki-20220201-clean.txt"],
   blacklist: loadBlacklist()
     .add(["com", "eng", "etc", "www", "org", "inc"])
     .add(["bspw", "bzw", "ca", "evtl", "inkl", "usw"])

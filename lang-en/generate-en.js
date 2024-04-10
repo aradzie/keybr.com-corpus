@@ -6,6 +6,6 @@ import { en } from "./en.js";
 
 await processCorpus({
   language: en,
-  file: ["/home/caustic/Downloads/corpus/enwiki-20220201-clean.txt"],
+  file: ["~/Downloads/corpus/enwiki-20220201-clean.txt"],
   blacklist: loadBlacklist().addFile("lang-en/blacklist.txt"),
 });

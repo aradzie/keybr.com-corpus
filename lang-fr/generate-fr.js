@@ -4,7 +4,7 @@ import { fr } from "./fr.js";
 
 await processCorpus({
   language: fr,
-  file: ["/home/caustic/Downloads/corpus/opensubtitles/fr.txt"],
+  file: ["~/Downloads/corpus/opensubtitles/fr.txt"],
   blacklist: loadBlacklist()
     .addFile("lang-fr/blacklist-profanity.txt")
     .addFile("lang-fr/blacklist-english.txt")
