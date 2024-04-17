@@ -68,10 +68,8 @@ Aisha
 Aiyla
 Aiza
 Aizah
-Aj
 Ajay
 Akram
-Al
 Alaia
 Alaina
 Alaiya
@@ -876,7 +874,6 @@ Dawn
 Dawson
 Dawud
 Dax
-De
 Deacon
 Dean
 Deanna
@@ -990,7 +987,6 @@ Earle
 Eastwood
 Eben
 Ebony
-Ed
 Eddie
 Eddison
 Eden
@@ -1762,7 +1758,6 @@ Jim
 Jimmie
 Jimmy
 Jiya
-Jo
 Joan
 Joann
 Joanna
@@ -2083,7 +2078,6 @@ Lewis
 Lexi
 Lexie
 Leyla
-Li
 Lia
 Liam
 Liana
@@ -2449,7 +2443,7 @@ Mitchum
 Mix
 Miya
 Miyoshi
-Mo'Nique
+Monique
 Modisane
 Mohamad
 Mohamed
@@ -2619,7 +2613,6 @@ Octavia
 Odessa
 Odin
 Ogden
-Oh
 Oisin
 Okonedo
 Olaf
