@@ -1,7 +1,7 @@
 import { Language } from "../lib/language.js";
 
-const reAlphabet = /^[aábcdeéfghiíjlmnñoópqrstuúüvxyz]+$/u;
-const reVowels = /[AÁEÉIÍJOÓUÚÜYaáeéiíjoóuúüy]/;
+const reAlphabet = /^[aábcdeéfghiíjlmnñoópqrstuúvxyz]+$/u;
+const reVowels = /[AÁEÉIÍJOÓUÚYaáeéiíjoóuúy]/;
 
 export function testWord_es(word) {
   if (word.length > 20) {
