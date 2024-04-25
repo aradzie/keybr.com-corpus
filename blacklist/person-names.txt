@@ -989,6 +989,7 @@ Eben
 Ebony
 Eddie
 Eddison
+Eddy
 Eden
 Edgar
 Edie
@@ -1293,7 +1294,6 @@ Garry
 Garson
 Gary
 Gascon
-Gay
 Gaynor
 Geena
 Gelbero
@@ -1721,6 +1721,7 @@ Jayden
 Jayla
 Jaylen
 Jayson
+Jazell
 Jean
 Jean-Claude
 Jean-Gaspard
@@ -1890,6 +1891,7 @@ Keith
 Keller
 Kelly
 Kelsey
+Kelvin
 Kemble
 Kempe
 Ken
@@ -2443,7 +2445,6 @@ Mitchum
 Mix
 Miya
 Miyoshi
-Monique
 Modisane
 Mohamad
 Mohamed
@@ -2456,6 +2457,7 @@ Molly
 Momoa
 Monica
 Monika
+Monique
 Monique
 Monroe
 Montague
@@ -3076,6 +3078,7 @@ Seyfried
 Seymour
 Shah
 Shailene
+Shakespeare
 Shakur
 Shalhoub
 Shanaya
