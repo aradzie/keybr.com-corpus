@@ -6,7 +6,7 @@ import { readFileSync } from "node:fs";
 import { fromCsv } from "./lib/csv.js";
 import { pathTo } from "./lib/io.js";
 
-compare("build/dictionary-en-old.csv", "build/dictionary-en.csv");
+compare("build/dictionary-de-old.csv", "build/dictionary-de.csv");
 
 function compare(file_a, file_b) {
   const words_a = wordsOnly(fromCsv(readFileSync(pathTo(file_a), "utf-8")));
