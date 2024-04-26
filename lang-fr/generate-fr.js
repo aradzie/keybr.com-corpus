@@ -4,9 +4,8 @@ import { fr } from "./fr.js";
 
 await processCorpus({
   language: fr,
-  file: ["~/Downloads/corpus/opensubtitles/fr.txt"],
+  files: ["~/Downloads/corpus/opensubtitles/fr.txt"],
   blacklist: loadBlacklist()
-    .addFile("lang-fr/blacklist-profanity.txt")
-    .addFile("blacklist/english.txt")
+    .addFiles("lang-fr/blacklist-profanity.txt", "blacklist/english.txt")
     .add("âcdeéhijlmnosu".split("")),
 });

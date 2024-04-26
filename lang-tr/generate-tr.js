@@ -6,9 +6,11 @@ writeDict(tr, await processDict());
 
 async function processDict() {
   const blacklist = loadBlacklist()
-    .addFile("lang-tr/blacklist-english.txt")
-    .addFile("lang-tr/blacklist-profanity.txt")
-    .addFile("lang-tr/blacklist-garbage.txt")
+    .addFiles(
+      "lang-tr/blacklist-english.txt",
+      "lang-tr/blacklist-profanity.txt",
+      "lang-tr/blacklist-garbage.txt",
+    )
     .delete("bana", "ben", "de", "geri", "hadi", "mi", "ne", "sana", "ve");
   // const aspell = Aspell.tryMake(tr);
   const dict = new Map();

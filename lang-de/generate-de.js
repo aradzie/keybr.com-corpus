@@ -7,14 +7,16 @@ import { de } from "./de.js";
 
 await processCorpus({
   language: de,
-  file: ["~/Downloads/corpus/dewiki-20220201-clean.txt"],
+  files: ["~/Downloads/corpus/dewiki-20220201-clean.txt"],
   blacklist: loadBlacklist()
-    .add(["com", "eng", "etc", "www", "org", "inc"])
-    .add(["bspw", "bzw", "ca", "evtl", "inkl", "usw"])
-    .addFile("lang-de/blacklist-cities.txt")
-    .addFile("lang-de/blacklist-countries.txt")
-    .addFile("lang-de/blacklist-misc.txt")
-    .addFile("lang-de/blacklist-profanity.txt")
-    .addFile("blacklist/english.txt"),
+    .add("com", "eng", "etc", "www", "org", "inc")
+    .add("bspw", "bzw", "ca", "evtl", "inkl", "usw")
+    .addFiles(
+      "lang-de/blacklist-cities.txt",
+      "lang-de/blacklist-countries.txt",
+      "lang-de/blacklist-misc.txt",
+      "lang-de/blacklist-profanity.txt",
+      "blacklist/english.txt",
+    ),
   DictType: MultiDict,
 });

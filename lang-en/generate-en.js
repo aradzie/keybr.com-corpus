@@ -7,5 +7,5 @@ import { en } from "./en.js";
 await processCorpus({
   language: en,
   file: ["~/Downloads/corpus/enwiki-20220201-clean.txt"],
-  blacklist: loadBlacklist().addFile("lang-en/blacklist.txt"),
+  blacklist: loadBlacklist().addFiles("lang-en/blacklist.txt"),
 });

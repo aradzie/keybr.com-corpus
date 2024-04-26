@@ -3,7 +3,7 @@ import { Language } from "../lib/language.js";
 const reAlphabet = /^[aábcčdďeéěfghiíjklmnňoóprřsštťuúůvxyýzž]+$/u;
 const reVowels = /[AÁEÉĚIÍJOÓUÚŮYÝaáeéěiíjoóuúůyý]/;
 
-export function testWord_cs(word) {
+export const cs = new Language("cs", (word) => {
   if (word.length > 20) {
     return false;
   }
@@ -14,6 +14,4 @@ export function testWord_cs(word) {
     return false;
   }
   return true;
-}
-
-export const cs = new Language("cs", testWord_cs);
+});

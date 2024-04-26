@@ -4,9 +4,8 @@ import { es } from "./es.js";
 
 await processCorpus({
   language: es,
-  file: ["~/Downloads/corpus/opensubtitles/es.txt"],
+  files: ["~/Downloads/corpus/opensubtitles/es.txt"],
   blacklist: loadBlacklist()
-    .addFile("lang-es/blacklist.txt")
-    .addFile("blacklist/english.txt")
+    .addFiles("lang-es/blacklist.txt", "blacklist/english.txt")
     .add("e", "u", "ó"),
 });

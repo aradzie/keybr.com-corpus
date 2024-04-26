@@ -2,7 +2,7 @@ import { Language } from "../lib/language.js";
 
 const reAlphabet = /^[ابپتثجچحخدذرزژسشصضطظعغفقکگلمنوهی]+$/u;
 
-export function testWord_fa(word) {
+export const fa = new Language("fa", (word) => {
   if (word.length > 20) {
     return false;
   }
@@ -10,6 +10,4 @@ export function testWord_fa(word) {
     return false;
   }
   return true;
-}
-
-export const fa = new Language("fa", testWord_fa);
+});

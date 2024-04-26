@@ -3,7 +3,7 @@ import { Language } from "../lib/language.js";
 const reAlphabet = /^[aáâãàbcçdeéêfghiíjlmnoóôõpqrstuúvxz]+$/u;
 const reVowels = /[AÁÂÃÀEÉÊIÍJOÓÔÕUÚaáâãàeéêiíjoóôõuú]/;
 
-export function testWord_pt(word) {
+const testWord = (word) => {
   if (word.length > 20) {
     return false;
   }
@@ -14,7 +14,7 @@ export function testWord_pt(word) {
     return false;
   }
   return true;
-}
+};
 
-export const ptPT = new Language("pt-PT", testWord_pt);
-export const ptBR = new Language("pt-BR", testWord_pt);
+export const ptPT = new Language("pt-PT", testWord);
+export const ptBR = new Language("pt-BR", testWord);

@@ -3,5 +3,5 @@ import { fa } from "./fa.js";
 
 await processCorpus({
   language: fa,
-  file: ["~/Downloads/corpus/opensubtitles/fa.txt"],
+  files: ["~/Downloads/corpus/opensubtitles/fa.txt"],
 });

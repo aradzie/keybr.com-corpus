@@ -3,5 +3,5 @@ import { ar } from "./ar.js";
 
 await processCorpus({
   language: ar,
-  file: ["~/Downloads/corpus/opensubtitles/ar.txt"],
+  files: ["~/Downloads/corpus/opensubtitles/ar.txt"],
 });

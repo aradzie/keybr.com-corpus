@@ -3,7 +3,7 @@ import { Language } from "../lib/language.js";
 const reAlphabet = /^[abcçdefgğhIıİijklmnoöprsştuüvyz]+$/u;
 const reVowels = /[AEIİJOUYaeıijoöuüy]/;
 
-export function testWord_tr(word) {
+export const tr = new Language("tr", (word) => {
   if (word.length > 20) {
     return false;
   }
@@ -14,6 +14,4 @@ export function testWord_tr(word) {
     return false;
   }
   return true;
-}
-
-export const tr = new Language("tr", testWord_tr);
+});

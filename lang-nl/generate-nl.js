@@ -4,9 +4,8 @@ import { nl } from "./nl.js";
 
 await processCorpus({
   language: nl,
-  file: ["~/Downloads/corpus/opensubtitles/nl.txt"],
+  files: ["~/Downloads/corpus/opensubtitles/nl.txt"],
   blacklist: loadBlacklist()
-    .addFile("lang-nl/blacklist-profanity.txt")
-    .addFile("blacklist/english.txt")
+    .addFiles("lang-nl/blacklist-profanity.txt", "blacklist/english.txt")
     .add("a,e,es,ge,i,o,on,se,y".split(",")),
 });
