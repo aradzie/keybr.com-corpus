@@ -396,6 +396,7 @@ vehicle
 velocity
 velvet
 velveteen
+ventriloquist
 venture
 veracity
 verbalize
