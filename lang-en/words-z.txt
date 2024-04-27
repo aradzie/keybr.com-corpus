@@ -15,6 +15,7 @@ bizarre
 blaze
 blazed
 blazing
+blitzkrieg
 blizzard
 booze
 breeze
@@ -91,8 +92,10 @@ jazzed
 jazzy
 jeopardize
 kazoo
+kazooist
 kibbutz
 klutz
+kosherize
 lazarus
 lazily
 laziness
@@ -195,6 +198,7 @@ zeroing
 zigzag
 zinc
 zip
+ziplock
 zipped
 zipper
 zirconium
