@@ -1,5 +1,3 @@
-
-
 affix
 affixed
 ajax
@@ -116,6 +114,9 @@ exorbitant
 exorcism
 exorcize
 exorcized
+exoskeletal
+exoskeleton
+exoskeletons
 exotic
 expand
 expanded
@@ -183,8 +184,10 @@ extra
 extract
 extracted
 extraordinary
+extravagance
 extravagant
 extravagantly
+extravanganza
 extravert
 extraverted
 extreme
@@ -229,6 +232,11 @@ juxtapose
 juxtaposed
 juxtaposing
 juxtaposition
+kickbox
+kickboxer
+kickboxing
+klaxon
+klaxons
 latex
 laxity
 lexicalize
@@ -255,9 +263,14 @@ onyx
 orthodox
 orthodoxy
 outbox
+overexaggerate
+overexaggerated
+overexaggeration
+overexcited
 overexert
 overexposed
 overextend
+overextended
 oxen
 oxford
 oxidization
@@ -277,6 +290,7 @@ prefix
 proximity
 proxy
 quixotic
+quixotically
 reflex
 reflexes
 reflexive
