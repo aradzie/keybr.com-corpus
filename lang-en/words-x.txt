@@ -28,6 +28,8 @@ complex
 complexion
 complexity
 context
+contextualize
+contextualized
 convex
 crucifix
 duplex
@@ -100,6 +102,8 @@ exiting
 exits
 exorbitant
 exorcism
+exorcize
+exorcized
 exotic
 expand
 expanded
@@ -154,6 +158,7 @@ expressionless
 expressions
 exquisite
 exquisitely
+extemporize
 extend
 extended
 extending
@@ -206,6 +211,7 @@ juxtaposition
 latex
 laxity
 lexicon
+lexicalize
 lox
 luxurious
 luxury
@@ -213,6 +219,7 @@ mailbox
 maxim
 maximal
 maximize
+maximized
 maximum
 mixed
 mixer
@@ -229,6 +236,8 @@ outbox
 oxen
 oxford
 oxidize
+oxidized
+oxidization
 oxygen
 oxymoron
 paradox
