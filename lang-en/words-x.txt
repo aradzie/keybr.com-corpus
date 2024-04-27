@@ -116,6 +116,9 @@ exorbitant
 exorcism
 exorcize
 exorcized
+exoskeletal
+exoskeleton
+exoskeletons
 exotic
 expand
 expanded
@@ -229,6 +232,11 @@ juxtapose
 juxtaposed
 juxtaposing
 juxtaposition
+kickbox
+kickboxer
+kickboxing
+klaxon
+klaxons
 latex
 laxity
 lexicalize
