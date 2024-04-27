@@ -15,6 +15,8 @@ aqua
 aquatic
 banquet
 barbeque
+baroque
+bequeath
 bequeathed
 bouquet
 boutique
@@ -127,6 +129,7 @@ questioningly
 questions
 queue
 quibble
+quibbling
 quick
 quickened
 quicker
@@ -191,6 +194,7 @@ squeeze
 squeezed
 squeezes
 squeezing
+squib
 squiggle
 squiggling
 squint
