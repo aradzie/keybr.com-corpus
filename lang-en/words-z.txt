@@ -23,7 +23,9 @@ buzz
 buzzard
 buzzed
 buzzing
+buzzsaw
 buzzword
+buzzwords
 capsize
 categorize
 citizen
@@ -150,6 +152,7 @@ resize
 revitalize
 seize
 seized
+showbiz
 size
 sized
 sizes
@@ -162,6 +165,7 @@ squeezed
 squeezes
 squeezing
 summarize
+swizzle
 symbolize
 synthesize
 tizzy
@@ -187,9 +191,12 @@ vulzanize
 vulcanized
 waltz
 waltzing
+whizbang
 wizard
 wizardry
 wizards
+wooziness
+woozy
 zap
 zapped
 zappers
