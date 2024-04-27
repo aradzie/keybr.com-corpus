@@ -29,6 +29,7 @@ categorize
 citizen
 citizens
 civilization
+civilize
 civilized
 cozy
 crazed
@@ -174,9 +175,16 @@ unzipped
 utilize
 vaporize
 victimization
+victimize
+victimized
 visualization
 visualize
+viz
 vizier
+vocalization
+vocalize
+vulzanize
+vulcanized
 waltz
 waltzing
 wizard
