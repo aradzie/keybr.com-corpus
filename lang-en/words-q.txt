@@ -55,6 +55,7 @@ equator
 equatorial
 equidistant
 equilibrium
+equine
 equinox
 equip
 equipage
@@ -117,7 +118,9 @@ quadrant
 quadruped
 quadruple
 quadruplet
+quaff
 quagmire
+quail
 quaint
 quake
 quaker
@@ -145,6 +148,7 @@ quarters
 quartet
 quartz
 quasar
+quash
 quaver
 quay
 quayside
@@ -287,3 +291,4 @@ ubiquity
 unequal
 unique
 unrequited
+ventriloquist
