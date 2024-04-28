@@ -175,6 +175,7 @@ quickly
 quickness
 quicksand
 quicksilver
+quickwitted
 quid
 quiet
 quieted
@@ -246,6 +247,9 @@ squash
 squashed
 squat
 squatted
+squawk
+squawker
+squawking
 squeak
 squeaked
 squeaking
