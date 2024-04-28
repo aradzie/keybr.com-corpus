@@ -58,7 +58,6 @@ equilibrium
 equine
 equinox
 equip
-equipage
 equipment
 equipped
 equitable
@@ -156,6 +155,7 @@ queasy
 queen
 queendom
 queens
+queer
 quell
 quench
 querulous
