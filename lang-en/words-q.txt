@@ -6,6 +6,7 @@ acquire
 acquired
 acquisition
 acquit
+acquittal
 acquitted
 adequate
 adequately
@@ -90,14 +91,19 @@ masquerade
 mosque
 oblique
 opaque
+opaquely
 picturesque
 piquant
 piqued
 prequel
+prequels
 prerequisite
+prerequisites
 quack
 quadrant
+quadruped
 quadruple
+quadruplet
 quagmire
 quaint
 quake
@@ -150,6 +156,8 @@ quilt
 quintessential
 quintessentially
 quip
+quipped
+quips
 quirk
 quirked
 quirky
@@ -172,6 +180,8 @@ quoth
 quotient
 reacquire
 reacquiring
+reequip
+reequipped
 relinquish
 relinquished
 request
