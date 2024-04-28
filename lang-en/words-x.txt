@@ -32,6 +32,7 @@ complexity
 context
 contextualize
 contextualized
+contextualizes
 convex
 coxswain
 crucifix
@@ -180,6 +181,7 @@ extensive
 extent
 exterior
 external
+externalize
 extra
 extract
 extracted
@@ -249,6 +251,8 @@ maxim
 maximal
 maximize
 maximized
+maximizes
+maximizing
 maximum
 mixed
 mixer
@@ -276,6 +280,8 @@ oxford
 oxidization
 oxidize
 oxidized
+oxidizer
+oxidizes
 oxygen
 oxymoron
 paradox
@@ -306,6 +312,7 @@ saxophone
 saxophonist
 sexual
 sexually
+sexualize
 sexy
 six
 sixteen
@@ -319,7 +326,6 @@ tax
 taxable
 taxes
 taxi
-taxicab
 taxidermy
 text
 texted
