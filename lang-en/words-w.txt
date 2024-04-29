@@ -4,6 +4,8 @@ anyhow
 anyway
 arrowhead
 avow
+award
+awards
 away
 awesome
 awful
@@ -425,6 +427,7 @@ willowy
 willpower
 wily
 wimp
+win
 wince
 windbag
 windblown
@@ -433,6 +436,8 @@ windmill
 windproof
 wing
 wingman
+winner
+winning
 wipe
 wipeout
 wisdom
