@@ -32,6 +32,7 @@ blowhole
 bow
 bower
 bowtie
+boxwood
 brawl
 brawler
 brawn
@@ -59,6 +60,7 @@ cowardice
 cowardly
 cowbell
 cowpox
+coxswain
 crew
 crewcut
 crewman
@@ -338,6 +340,13 @@ wavelength
 wavelet
 wavering
 wavy
+wax
+waxed
+waxen
+waxes
+waxing
+waxwork
+waxy
 way
 waybill
 wayfarer
