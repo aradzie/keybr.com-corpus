@@ -53,6 +53,9 @@ embezzle
 emphasize
 energize
 enzyme
+exorcizing
+exoticize
+expertize
 extravaganza
 fez
 fizzle
@@ -68,6 +71,7 @@ frizz
 frizzy
 froze
 frozen
+fuzzbox
 fuzzy
 gauze
 gaze
@@ -158,6 +162,7 @@ resize
 revitalize
 seize
 seized
+sexualized
 showbiz
 size
 sized
@@ -167,6 +172,7 @@ sizzling
 specialization
 specialize
 squeeze
+squeezebox
 squeezed
 squeezes
 squeezing
@@ -174,6 +180,7 @@ summarize
 swizzle
 symbolize
 synthesize
+texturize
 tizzy
 topaz
 tranquilize
@@ -193,8 +200,8 @@ viz
 vizier
 vocalization
 vocalize
-vulcanized
 vulcanize
+vulcanized
 waltz
 waltzing
 whizbang

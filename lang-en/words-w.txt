@@ -16,6 +16,7 @@ bawbles
 bawdy
 bawl
 bawler
+beeswax
 behemoth
 bejewelled
 bestow
@@ -80,6 +81,7 @@ empower
 empowered
 evolutionary
 evolving
+expressway
 farewell
 featherweight
 few
@@ -160,6 +162,7 @@ overview
 overwhelmed
 overwhelming
 overwrought
+oxbow
 password
 pathway
 pawnshop
@@ -185,6 +188,8 @@ scowling
 screw
 screwed
 shadow
+shadowbox
+shadowboxing
 shadowing
 shipwreck
 shipwrecked

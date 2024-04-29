@@ -33,7 +33,6 @@ consequence
 consequences
 consequential
 consequently
-coquetry
 critique
 disqualification
 disqualified
@@ -46,6 +45,7 @@ enquire
 enquiry
 equal
 equality
+equalize
 equalizer
 equally
 equanimity
