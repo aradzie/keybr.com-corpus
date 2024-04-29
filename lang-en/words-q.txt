@@ -158,6 +158,7 @@ queens
 queer
 quell
 quench
+quenching
 querulous
 query
 quest
@@ -296,3 +297,11 @@ unequal
 unique
 unrequited
 ventriloquist
+quiche
+quenched
+squashy
+squishy
+physique
+vanquish
+vanquished
+vanquishing
