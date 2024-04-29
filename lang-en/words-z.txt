@@ -193,7 +193,7 @@ vizier
 vocalization
 vocalize
 vulcanized
-vulzanize
+vulcanize
 waltz
 waltzing
 whizbang
