@@ -105,7 +105,6 @@ jiffy
 jiggle
 jigsaw
 jingle
-jinn
 jinx
 jitter
 jive
