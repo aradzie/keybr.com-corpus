@@ -43,6 +43,7 @@ eloquence
 eloquent
 enquire
 enquiry
+epoque
 equal
 equality
 equalize
@@ -60,6 +61,7 @@ equinox
 equip
 equipment
 equipped
+equipt
 equitable
 equity
 equivalent
@@ -105,7 +107,9 @@ oblique
 opaque
 opaquely
 physique
+picaresque
 picturesque
+pipsqueak
 piquant
 piqued
 plaque
