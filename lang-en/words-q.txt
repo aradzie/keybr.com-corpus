@@ -104,6 +104,7 @@ mosquitos
 oblique
 opaque
 opaquely
+physique
 picturesque
 piquant
 piqued
@@ -158,6 +159,7 @@ queens
 queer
 quell
 quench
+quenched
 quenching
 querulous
 query
@@ -169,6 +171,7 @@ questions
 queue
 quibble
 quibbling
+quiche
 quick
 quickened
 quicker
@@ -246,6 +249,7 @@ squarely
 squares
 squash
 squashed
+squashy
 squat
 squatted
 squawk
@@ -280,6 +284,7 @@ squirrel
 squirt
 squish
 squished
+squishy
 subsequent
 subsequently
 technique
@@ -296,12 +301,7 @@ ubiquity
 unequal
 unique
 unrequited
-ventriloquist
-quiche
-quenched
-squashy
-squishy
-physique
 vanquish
 vanquished
 vanquishing
+ventriloquist
