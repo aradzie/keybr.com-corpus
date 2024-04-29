@@ -17,16 +17,20 @@ aquarium
 aquatic
 aqueduct
 banquet
+banqueting
 barbeque
 baroque
 bequeath
 bequeathed
+bequest
 bisque
 bouquet
 boutique
+burqa
 cheque
 colloquial
 conquer
+conquerable
 conqueror
 conquest
 consequence
@@ -34,6 +38,8 @@ consequences
 consequential
 consequently
 critique
+cybersquatter
+cybersquatting
 disqualification
 disqualified
 disqualify
@@ -105,6 +111,9 @@ mosque
 mosquito
 mosquitos
 oblique
+obliquely
+obsequious
+obsequiously
 opaque
 opaquely
 physique
@@ -125,6 +134,7 @@ quadruped
 quadruple
 quadruplet
 quaff
+quaffable
 quagmire
 quail
 quaint
@@ -149,6 +159,7 @@ quarrel
 quarry
 quart
 quarter
+quarterbacks
 quartermaster
 quarters
 quartet
@@ -220,6 +231,7 @@ quoted
 quoth
 quotidian
 quotient
+racquetball
 reacquire
 reacquiring
 reequip
