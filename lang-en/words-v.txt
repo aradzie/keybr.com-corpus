@@ -6,7 +6,6 @@ active
 activity
 adjectival
 adjective
-adjustive
 adventure
 advisory
 advocate
@@ -243,7 +242,7 @@ over
 overbearing
 overexpose
 overflow
-overflow
+overflowed
 overhaul
 overindulge
 overjoyed
@@ -354,6 +353,7 @@ thrive
 thrived
 travel
 traveler
+travels
 travesty
 trivial
 twelve
@@ -362,9 +362,9 @@ unequivocal
 unfavorable
 universe
 university
+unprovoked
 unveil
 unwavering
-upheaval
 upheaval
 vacancy
 vacate
@@ -396,6 +396,7 @@ vehicle
 velocity
 velvet
 velveteen
+vent
 ventriloquist
 venture
 veracity
