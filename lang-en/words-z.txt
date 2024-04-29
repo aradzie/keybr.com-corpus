@@ -43,6 +43,7 @@ dazzle
 dazzling
 dizziness
 dizzy
+doze
 dozed
 dozen
 dozens
@@ -84,6 +85,7 @@ grazing
 grizzly
 hazard
 haze
+hazel
 hazelnut
 hazing
 hazy
@@ -190,8 +192,8 @@ viz
 vizier
 vocalization
 vocalize
-vulzanize
 vulcanized
+vulzanize
 waltz
 waltzing
 whizbang
@@ -203,14 +205,17 @@ woozy
 zap
 zapped
 zappers
+zeal
 zealot
 zealously
 zebra
 zen
-zephyr
 zero
 zeroing
+zest
+zesty
 zigzag
+zilch
 zinc
 zip
 ziplock
