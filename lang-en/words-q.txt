@@ -310,5 +310,6 @@ unique
 unrequited
 vanquish
 vanquished
+vanquishers
 vanquishing
 ventriloquist
