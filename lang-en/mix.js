@@ -3,16 +3,14 @@
  */
 
 import chalk from "chalk";
-import { readFileSync, writeFileSync } from "node:fs";
-import { fromCsv, toCsv } from "../lib/csv.js";
 import { sortByCount } from "../lib/dict.js";
-import { pathTo } from "../lib/io.js";
+import { pathTo, readDict, readLines, writeDict } from "../lib/io.js";
 
-const dict = readDict(pathTo("lang-en/dictionary-en-books.csv"));
-const wj = ["j", readWords(pathTo("lang-en/words-j.txt"))];
-const wq = ["q", readWords(pathTo("lang-en/words-q.txt"))];
-const wx = ["x", readWords(pathTo("lang-en/words-x.txt"))];
-const wz = ["z", readWords(pathTo("lang-en/words-z.txt"))];
+const dict = new Map(await readDict(pathTo("lang-en/dictionary-en-books.csv")));
+const wj = ["j", await readWords(pathTo("lang-en/words-j.txt"))];
+const wq = ["q", await readWords(pathTo("lang-en/words-q.txt"))];
+const wx = ["x", await readWords(pathTo("lang-en/words-x.txt"))];
+const wz = ["z", await readWords(pathTo("lang-en/words-z.txt"))];
 
 const keep = new Set();
 
@@ -23,7 +21,7 @@ for (const [letter, list] of [wj, wq, wx, wz]) {
 
 trimDict();
 
-writeDict(pathTo("lang-en/dictionary-en.csv"), [...dict]);
+await writeDict(pathTo("lang-en/dictionary-en.csv"), sortByCount([...dict]));
 
 function process(letter, list) {
   for (const word of dict.keys()) {
@@ -55,18 +53,13 @@ function trimDict() {
   }
 }
 
-function writeDict(path, dict) {
-  writeFileSync(path, toCsv(sortByCount([...dict])));
-}
-
-function readDict(path) {
-  return new Map(fromCsv(readFileSync(path, "utf-8")));
-}
-
-function readWords(path) {
-  return new Set(
-    readFileSync(path, "utf-8")
-      .split(/[\r\n]+/)
-      .filter((word) => word.length > 0),
-  );
+async function readWords(path) {
+  const words = new Set();
+  for await (const word of readLines(path)) {
+    if (words.has(word)) {
+      console.log(`Duplicate word ${chalk.red(word)}`);
+    }
+    words.add(word);
+  }
+  return words;
 }

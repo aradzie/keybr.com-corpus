@@ -1,20 +1,20 @@
 import { loadBlacklist } from "../blacklist/blacklist.js";
 import { Aspell } from "../lib/aspell.js";
-import { pathTo, readCsv, writeDict } from "../lib/io.js";
+import { sortByCount } from "../lib/dict.js";
+import { dictPath, pathTo, readDict, writeDict } from "../lib/io.js";
 import { hu } from "./hu.js";
 
-writeDict(hu, await processDict());
+await writeDict(dictPath(hu), await processDict());
 
 async function processDict() {
   const blacklist = loadBlacklist().addFiles("lang-hu/blacklist-english.txt");
   const aspell = Aspell.tryMake(hu);
   const dict = new Map();
-  for await (const [word0, f0] of readCsv(pathTo("lang-hu/dict.csv"))) {
+  for (const [word0, f] of await readDict(pathTo("lang-hu/dict.csv"))) {
     const word = word0.toLocaleLowerCase("hu");
-    const f = Number(f0);
     if (hu.testWord(word) && blacklist.allow(word) && aspell.has(word)) {
       dict.set(word, (dict.get(word) ?? 0) + f);
     }
   }
-  return [...dict.entries()];
+  return sortByCount([...dict.entries()]).slice(0, 10100);
 }
