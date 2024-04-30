@@ -113,8 +113,6 @@ exiting
 exits
 exorbitant
 exorcism
-exorcize
-exorcized
 exoskeletal
 exoskeleton
 exoskeletons
@@ -125,6 +123,7 @@ expanding
 expanse
 expat
 expect
+expectantly
 expectation
 expectations
 expected
@@ -189,7 +188,6 @@ extraordinary
 extravagance
 extravagant
 extravagantly
-extravanganza
 extravert
 extraverted
 extreme
@@ -310,10 +308,6 @@ remix
 sandbox
 saxophone
 saxophonist
-sexual
-sexually
-sexualize
-sexy
 six
 sixteen
 sixth

@@ -1,9 +1,10 @@
-import { pathTo, readCsv, writeDict } from "../lib/io.js";
+import { sortByCount } from "../lib/dict.js";
+import { dictPath, pathTo, readCsv, writeDict } from "../lib/io.js";
 import { ru } from "./ru.js";
 
 // http://dict.ruslang.ru/freq.php
 
-writeDict(ru, await processDict());
+await writeDict(dictPath(ru), await processDict());
 
 async function processDict() {
   const dict = new Map();
@@ -21,5 +22,7 @@ async function processDict() {
       }
     }
   }
-  return [...dict.values()].map(({ word, ipm }) => [word, Math.round(ipm)]);
+  return sortByCount(
+    [...dict.values()].map(({ word, ipm }) => [word, Math.round(ipm)]),
+  ).slice(0, 10000);
 }

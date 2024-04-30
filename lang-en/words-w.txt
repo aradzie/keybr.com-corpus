@@ -19,7 +19,6 @@ bawdy
 bawl
 bawler
 beeswax
-behemoth
 bejewelled
 bestow
 between
@@ -83,8 +82,6 @@ earwax
 elbow
 empower
 empowered
-evolutionary
-evolving
 expressway
 farewell
 featherweight
@@ -112,16 +109,12 @@ hawk
 hawker
 hawkish
 heavyweight
-hedgehog
 highbrow
-hijack
 how
 howdy
 howl
 howler
 howling
-imbue
-imbued
 jaw
 jawbone
 jawbreaker
@@ -131,7 +124,6 @@ jaywalk
 jaywalked
 jaywalker
 jaywalking
-jerkin
 jewel
 jeweler
 jewelled
@@ -148,7 +140,6 @@ lawsuit
 lawyer
 lowborn
 lowbrow
-marksman
 meadow
 mildew
 network
@@ -161,7 +152,6 @@ outlaw
 outlawed
 outward
 overcrowded
-overhaul
 overview
 overwhelmed
 overwhelming
@@ -171,7 +161,6 @@ password
 pathway
 pawnshop
 pewter
-pinpoint
 power
 powerful
 powerfully
@@ -179,7 +168,6 @@ powerplant
 powerup
 powerwash
 preview
-pursuit
 quickwitted
 review
 reviewed
@@ -209,7 +197,6 @@ shrewd
 skyward
 slipway
 slowpoke
-slyly
 snowball
 snowman
 snowmelt
@@ -249,8 +236,6 @@ switch
 swivel
 swivels
 teamwork
-thorough
-thoroughfare
 throw
 throwback
 tweak

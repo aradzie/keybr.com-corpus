@@ -32,7 +32,6 @@ bouquet
 boutique
 brusque
 burlesque
-burqa
 cheque
 clique
 colloquial
@@ -212,6 +211,7 @@ quest
 question
 questioned
 questioning
+questioningly
 questions
 queue
 queuing
@@ -241,6 +241,7 @@ quip
 quipped
 quips
 quirk
+quirked
 quirks
 quirky
 quit
