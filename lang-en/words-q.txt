@@ -75,6 +75,8 @@ equivalent
 esquire
 exquisite
 exquisitely
+foursquare
+frequencies
 frequency
 frequent
 frequently
@@ -101,7 +103,6 @@ kumquat
 lacquer
 lacquered
 liquefy
-liquefying
 liquid
 liquidate
 liquor
