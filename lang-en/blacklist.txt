@@ -32,6 +32,7 @@ chi
 christ
 christianity
 christians
+christs
 cia
 co
 codice
@@ -74,6 +75,7 @@ gar
 gee
 god
 goddam
+goddaming
 goddamned
 goddess
 gods
@@ -85,12 +87,17 @@ hex
 hi
 ho
 holy
+homosexual
+homosexuality
+homosexuals
 hon
 huh
 id
 imp
 inc
 j
+jeez
+jihad
 johns
 jr
 kin
@@ -165,6 +172,11 @@ rue
 se
 sec
 sex
+sexualize
+sexualized
+sexualizes
+sexualizing
+sexy
 sis
 sol
 sur

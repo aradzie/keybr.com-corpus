@@ -26,7 +26,6 @@ bequest
 bisque
 bouquet
 boutique
-burqa
 cheque
 colloquial
 conquer
@@ -186,6 +185,7 @@ quest
 question
 questioned
 questioning
+questioningly
 questions
 queue
 quibble
@@ -213,6 +213,7 @@ quip
 quipped
 quips
 quirk
+quirked
 quirks
 quirky
 quit
