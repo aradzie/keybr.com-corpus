@@ -13,6 +13,7 @@ adequately
 antique
 antiquity
 aqua
+aquamarine
 aquarium
 aquatic
 aqueduct
@@ -158,6 +159,7 @@ quantity
 quantum
 quark
 quarrel
+quarried
 quarry
 quart
 quarter
@@ -224,13 +226,14 @@ quivering
 quixotic
 quixotically
 quiz
+quizzical
+quizzically
 quorum
 quota
 quotable
 quotation
 quote
 quoted
-quoth
 quotidian
 quotient
 racquetball
@@ -256,6 +259,10 @@ requisition
 requisitioned
 sequel
 sequence
+sequential
+sequentially
+sequester
+sequestered
 squabble
 squabbling
 squad

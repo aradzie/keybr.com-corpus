@@ -147,6 +147,8 @@ puzzled
 quartz
 quiz
 quizzes
+quizzical
+quizzically
 randomized
 razor
 realization
