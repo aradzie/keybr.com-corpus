@@ -66,7 +66,7 @@ function readDict(path) {
 function readWords(path) {
   return new Set(
     readFileSync(path, "utf-8")
-      .split("\n")
-      .filter((w) => w.length > 0),
+      .split(/[\r\n]+/)
+      .filter((word) => word.length > 0),
   );
 }
