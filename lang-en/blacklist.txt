@@ -17,6 +17,7 @@ ax
 bible
 bibles
 bis
+bloody
 bod
 bogan
 boo
@@ -33,6 +34,8 @@ christ
 christianity
 christians
 christs
+church
+churches
 cia
 co
 codice
@@ -40,6 +43,7 @@ col
 com
 comm
 condita
+crook
 cur
 da
 dame
@@ -47,6 +51,7 @@ de
 del
 den
 di
+die
 din
 dis
 dna
@@ -54,6 +59,7 @@ doe
 dos
 du
 duh
+dumb
 e
 ed
 eh
@@ -70,6 +76,9 @@ fascist
 fascists
 fbi
 fer
+filth
+fool
+fools
 fro
 gar
 gee
@@ -93,13 +102,21 @@ homosexuals
 hon
 huh
 id
+idiot
+idiots
 imp
 inc
+insane
 j
 jeez
+jew
+jewish
+jews
 jihad
 johns
 jr
+kill
+kills
 kin
 kip
 la
@@ -147,6 +164,8 @@ ooh
 oops
 ops
 orc
+orgasm
+orgasms
 ow
 owe
 oz
@@ -155,6 +174,7 @@ papal
 par
 pee
 pol
+puke
 quo
 racism
 racist
@@ -167,6 +187,7 @@ re
 ref
 rego
 rev
+ridiculous
 rob
 rue
 se
@@ -179,6 +200,7 @@ sexualizing
 sexy
 sis
 sol
+stupid
 sur
 syn
 ta
@@ -194,6 +216,7 @@ tor
 tut
 u
 ugh
+ugly
 uh
 um
 un
@@ -203,6 +226,9 @@ usa
 uss
 val
 vim
+virgin
+virginity
+virgins
 wad
 wan
 wed
