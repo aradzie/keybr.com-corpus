@@ -204,7 +204,9 @@ snowplow
 software
 somehow
 squawk
+squawks
 squawker
+squawked
 squawking
 stewardship
 stopwatch

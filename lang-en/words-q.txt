@@ -241,7 +241,6 @@ quip
 quipped
 quips
 quirk
-quirked
 quirks
 quirky
 quit
