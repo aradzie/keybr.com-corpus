@@ -15,8 +15,8 @@ antique
 antiquity
 aqua
 aqualung
-aquaplane
 aquamarine
+aquaplane
 aquarium
 aquatic
 aqueduct
@@ -75,9 +75,9 @@ equilibrium
 equine
 equinox
 equip
-equips
 equipment
 equipped
+equips
 equitable
 equity
 equivalent
@@ -373,5 +373,3 @@ vanquished
 vanquishers
 vanquishing
 ventriloquist
-
-
