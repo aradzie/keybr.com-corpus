@@ -37,6 +37,7 @@ fjord
 flapjack
 fuji
 hijack
+hijinks
 inject
 injectable
 injected
@@ -56,6 +57,7 @@ jack
 jackal
 jacket
 jackets
+jackhammer
 jackpot
 jacks
 jacuzzi
@@ -64,6 +66,7 @@ jagged
 jaguar
 jail
 jailbreak
+jailhouse
 jam
 jammed
 jangle
@@ -72,6 +75,7 @@ janky
 japan
 jar
 jargon
+jarhead
 jars
 jasmine
 javelin
@@ -117,6 +121,7 @@ jobs
 jock
 jockey
 jocular
+jodhpurs
 jog
 jogged
 jogger
@@ -138,6 +143,7 @@ jokingly
 jolly
 jolt
 jolted
+joshing
 jostle
 jostling
 jot
@@ -203,6 +209,7 @@ juxtaposing
 juxtaposition
 lifejacket
 lumberjack
+maharajah
 mahjong
 majestic
 majesty
@@ -211,6 +218,7 @@ majordomo
 majoring
 majority
 misjudge
+nightjar
 object
 objected
 objectifies
@@ -221,6 +229,7 @@ objects
 overjoyed
 pajamas
 perjure
+photojournalist
 prejudge
 prejudice
 project
@@ -235,6 +244,8 @@ rejection
 rejoice
 rejuvenate
 rejuvenation
+shockjock
+showjumping
 subject
 subjective
 subjects
