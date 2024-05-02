@@ -74,6 +74,7 @@ equidistant
 equilibrium
 equine
 equinox
+equinoxes
 equip
 equipment
 equipped
@@ -82,8 +83,10 @@ equitable
 equity
 equivalent
 esquire
+exchequer
 exquisite
 exquisitely
+exquisiteness
 foursquare
 frequencies
 frequency
@@ -112,6 +115,8 @@ jonquils
 kumquat
 lacquer
 lacquered
+lacquerware
+lacquerwork
 liquefy
 liquid
 liquidate
@@ -316,6 +321,7 @@ squashy
 squat
 squatted
 squawk
+squawkbox
 squawker
 squawking
 squawks
@@ -329,6 +335,7 @@ squealed
 squealing
 squeamish
 squeeze
+squeezebox
 squeezed
 squeezes
 squeezing
