@@ -30,6 +30,9 @@ enjoyable
 enjoyed
 enjoying
 enjoyment
+fackfruit
+fajita
+fajitas
 fjord
 flapjack
 fuji
@@ -85,6 +88,7 @@ jeep
 jeer
 jekyll
 jelly
+jellyfish
 jeopardize
 jeopardy
 jerked
@@ -148,6 +152,7 @@ jovian
 jowl
 joy
 joyful
+joyfully
 joyous
 jubilant
 jubilee
@@ -187,6 +192,8 @@ juror
 jury
 just
 justice
+justifiably
+justification
 justified
 justify
 justly
@@ -194,6 +201,7 @@ juvenile
 juxtapose
 juxtaposing
 juxtaposition
+lifejacket
 lumberjack
 mahjong
 majestic
@@ -205,6 +213,7 @@ majority
 misjudge
 object
 objected
+objectifies
 objectify
 objection
 objective
@@ -233,3 +242,4 @@ subjugate
 subjunctive
 trajectory
 unjust
+unjustified
