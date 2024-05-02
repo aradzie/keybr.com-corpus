@@ -268,6 +268,7 @@ quotable
 quotation
 quote
 quoted
+quoteworthy
 quotidian
 quotient
 quoting
@@ -325,6 +326,7 @@ squawkbox
 squawker
 squawking
 squawks
+squawky
 squeak
 squeaked
 squeakily
