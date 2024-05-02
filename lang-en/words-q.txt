@@ -16,6 +16,7 @@ antiquity
 aqua
 aqualung
 aquamarine
+aquaplane
 aquarium
 aquatic
 aqueduct
@@ -73,16 +74,19 @@ equidistant
 equilibrium
 equine
 equinox
+equinoxes
 equip
 equipment
 equipped
-equipt
+equips
 equitable
 equity
 equivalent
 esquire
+exchequer
 exquisite
 exquisitely
+exquisiteness
 foursquare
 frequencies
 frequency
@@ -111,6 +115,8 @@ jonquils
 kumquat
 lacquer
 lacquered
+lacquerware
+lacquerwork
 liquefy
 liquid
 liquidate
@@ -138,6 +144,7 @@ physique
 picaresque
 picturesque
 pipsqueak
+piquancy
 piquant
 piqued
 piquing
@@ -153,6 +160,7 @@ quadrant
 quadruped
 quadruple
 quadruplet
+quadruplets
 quaff
 quaffable
 quagmire
@@ -241,7 +249,6 @@ quip
 quipped
 quips
 quirk
-quirked
 quirks
 quirky
 quit
@@ -314,6 +321,7 @@ squashy
 squat
 squatted
 squawk
+squawkbox
 squawker
 squawking
 squawks
@@ -327,6 +335,7 @@ squealed
 squealing
 squeamish
 squeeze
+squeezebox
 squeezed
 squeezes
 squeezing
