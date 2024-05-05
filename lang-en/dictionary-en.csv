@@ -7856,36 +7856,11 @@ sullen,5.623
 update,5.619
 elephant,5.616
 fingered,5.614
-bonded,5.612
 pacific,5.612
-looped,5.611
-rooted,5.611
-rumpled,5.61
-crumbled,5.608
-lighten,5.608
 sweetest,5.606
-pried,5.604
 unnerving,5.604
-unpredictable,5.604
 wholly,5.603
 harvest,5.602
-straddling,5.602
-substantial,5.602
-dolls,5.6
-cornered,5.599
-coursed,5.599
-pursued,5.599
-spoil,5.599
-deals,5.596
-probing,5.596
-syringe,5.595
-tackle,5.595
-skulls,5.594
-suggestions,5.591
-easiest,5.59
-cricket,5.587
-stem,5.587
-clattered,5.586
 wailing,5.583
 squat,5.58
 weigh,5.58
@@ -8553,6 +8528,7 @@ apex,1
 aqua,1
 aqualung,1
 aquamarine,1
+aquaplane,1
 aquarium,1
 aquatic,1
 aqueduct,1
@@ -8573,9 +8549,11 @@ axial,1
 axiom,1
 axis,1
 axle,1
+azaleas,1
 backfired,1
 backflip,1
 baleful,1
+balkanize,1
 banjo,1
 banqueting,1
 banquets,1
@@ -8625,6 +8603,7 @@ brusque,1
 bungalow,1
 burlesque,1
 buzzard,1
+buzzkill,1
 buzzsaw,1
 buzzword,1
 buzzwords,1
@@ -8765,8 +8744,9 @@ equidistant,1
 equilibrium,1
 equine,1
 equinox,1
+equinoxes,1
 equip,1
-equipt,1
+equips,1
 equitable,1
 equity,1
 equivalence,1
@@ -8785,6 +8765,7 @@ exasperate,1
 excavate,1
 excessive,1
 excessively,1
+exchequer,1
 excise,1
 excision,1
 excitable,1
@@ -8812,6 +8793,7 @@ expat,1
 expertize,1
 expressway,1
 exquisitely,1
+exquisiteness,1
 extemporize,1
 external,1
 externalize,1
@@ -9163,6 +9145,7 @@ juxtapose,1
 juxtaposed,1
 juxtaposing,1
 juxtaposition,1
+kamikaze,1
 kazoo,1
 kelvin,1
 kevlar,1
@@ -9181,6 +9164,8 @@ kumquat,1
 kvetch,1
 lacquer,1
 lacquered,1
+lacquerware,1
+lacquerwork,1
 latex,1
 lavish,1
 lawful,1
@@ -9198,6 +9183,8 @@ lexicon,1
 lifelike,1
 liquefy,1
 liquidate,1
+liquidize,1
+liquidizer,1
 liquified,1
 liquorice,1
 liveable,1
@@ -9357,6 +9344,7 @@ physique,1
 picaresque,1
 picturesque,1
 pipsqueak,1
+piquancy,1
 piquant,1
 piqued,1
 piquing,1
@@ -9366,6 +9354,7 @@ pivotal,1
 pixel,1
 pixelated,1
 pixie,1
+pizzazz,1
 plaque,1
 plentifully,1
 pontificate,1
@@ -9421,6 +9410,7 @@ quadrant,1
 quadruped,1
 quadruple,1
 quadruplet,1
+quadruplets,1
 quaff,1
 quaffable,1
 quagmire,1
@@ -9495,6 +9485,7 @@ quitting,1
 quixotic,1
 quixotically,1
 quiz,1
+quizmaster,1
 quizzes,1
 quizzical,1
 quizzically,1
@@ -9503,11 +9494,13 @@ quota,1
 quotable,1
 quotation,1
 quoted,1
+quoteworthy,1
 quotidian,1
 quotient,1
 quoting,1
 racquetball,1
 randomized,1
+razorback,1
 reacquire,1
 reacquiring,1
 rectify,1
@@ -9616,9 +9609,12 @@ squashed,1
 squashing,1
 squashy,1
 squawk,1
+squawkbox,1
+squawked,1
 squawker,1
 squawking,1
 squawks,1
+squawky,1
 squeakily,1
 squeaking,1
 squeaky,1
@@ -9687,6 +9683,7 @@ thrived,1
 throwback,1
 tiff,1
 tizzy,1
+tokenize,1
 toolbox,1
 topaz,1
 torque,1
@@ -9706,6 +9703,7 @@ twirly,1
 twix,1
 twizzle,1
 twofold,1
+tzatziki,1
 ubiquitous,1
 ubiquity,1
 unbox,1
@@ -9903,6 +9901,7 @@ whisker,1
 whiz,1
 whizbang,1
 whizzing,1
+whizzkids,1
 whopper,1
 wiccan,1
 wick,1
@@ -9996,5 +9995,6 @@ ziplock,1
 zirconium,1
 zither,1
 zodiac,1
+zonked,1
 zoology,1
 zoom,1
