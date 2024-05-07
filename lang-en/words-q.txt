@@ -59,7 +59,6 @@ eloquent
 enquire
 enquiring
 enquiry
-epoque
 equal
 equality
 equalize
