@@ -60,6 +60,7 @@ dos
 du
 duh
 dumb
+dunno
 e
 ed
 eh
@@ -82,12 +83,15 @@ fools
 fro
 gar
 gee
+gimme
 god
 goddam
 goddaming
 goddamned
 goddess
 gods
+gonna
+gotta
 gran
 groin
 ha
@@ -118,12 +122,14 @@ jr
 kill
 kills
 kin
+kinda
 kip
 la
 lad
 las
 le
 lei
+lemme
 les
 lo
 lord
@@ -166,6 +172,7 @@ ops
 orc
 orgasm
 orgasms
+outta
 ow
 owe
 oz
@@ -174,6 +181,7 @@ papal
 par
 pee
 pol
+pooh
 puke
 quo
 racism
@@ -201,6 +209,10 @@ sexy
 sis
 sol
 stupid
+suicide
+suicided
+suicides
+suiciding
 sur
 syn
 ta
@@ -233,6 +245,7 @@ wad
 wan
 wed
 wee
+whatcha
 wow
 y
 ya
