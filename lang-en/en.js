@@ -1,7 +1,7 @@
 import { Language } from "../lib/language.js";
 import { frequent } from "./frequent.js";
 
-const frequentSet = new Set(frequent);
+const frequentSet = new Set(frequent.slice(0, 5000));
 
 const reAlphabet = /^[abcdefghijklmnopqrstuvwxyz]+$/u;
 const reVowels = /[AEIOUYaeiouy]/;

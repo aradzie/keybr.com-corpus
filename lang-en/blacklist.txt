@@ -27,6 +27,7 @@ bu
 ca
 cal
 calla
+cant
 capita
 ceo
 chi
@@ -42,6 +43,9 @@ codice
 col
 com
 comm
+communism
+communist
+communists
 condita
 crook
 cur
@@ -96,6 +100,7 @@ gran
 groin
 ha
 hag
+hes
 hex
 hi
 ho
@@ -206,8 +211,10 @@ sexualized
 sexualizes
 sexualizing
 sexy
+shes
 sis
 sol
+soviet
 stupid
 suicide
 suicided
@@ -246,6 +253,7 @@ wan
 wed
 wee
 whatcha
+wont
 wow
 y
 ya
