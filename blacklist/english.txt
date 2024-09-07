@@ -1655,6 +1655,7 @@ exchange
 excited
 excitement
 exciting
+exclude
 exclusive
 excuse
 excuses
@@ -3539,6 +3540,7 @@ pointing
 points
 poison
 poisoned
+pokemon
 poker
 pole
 police
@@ -4302,6 +4304,8 @@ small
 smaller
 smart
 smarter
+smartphone
+smartwatch
 smash
 smashed
 smell
@@ -4422,6 +4426,7 @@ spray
 spread
 spreading
 spring
+spyware
 squad
 square
 squeeze
@@ -5054,6 +5059,7 @@ walk
 walked
 walker
 walking
+walkman
 walks
 wall
 wallace
@@ -5093,6 +5099,7 @@ watching
 water
 waters
 watson
+watt
 wave
 waves
 way
@@ -5109,6 +5116,8 @@ wearing
 wears
 weather
 web
+webcam
+webinar
 website
 wedding
 wednesday
@@ -5144,6 +5153,7 @@ whimpering
 whip
 whirring
 whiskey
+whisky
 whispering
 whispers
 whistle
@@ -5161,6 +5171,7 @@ wicked
 wide
 widow
 wife
+wifi
 wild
 william
 williams
@@ -5218,6 +5229,7 @@ worked
 worker
 workers
 working
+workout
 works
 world
 worlds
