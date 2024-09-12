@@ -230,7 +230,6 @@ muiști
 mul
 musulman
 mă
-ti
 măgar
 măgarii
 mătii
@@ -294,6 +293,7 @@ pornografic
 pornografie
 pornografii
 prezervativ
+proasta
 proastă
 prost
 prosti
@@ -385,12 +385,16 @@ tarfa
 terorism
 teroristă
 testicul
+ti
 ticălos
 to
 tâmpiti
 tâmpitule
 tâmpită
 târfa
+târfe
+târfele
+târfo
 târfă
 u
 ucid
@@ -415,6 +419,7 @@ vibrator
 viol
 violat
 violator
+violată
 violuri
 violând
 virgină
