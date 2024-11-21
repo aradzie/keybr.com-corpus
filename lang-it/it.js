@@ -4,7 +4,7 @@ const reAlphabet = /^[abcdefghijklmnopqrstuvwxyz]+$/u;
 const reVowels = /[AEIJOUYaeijouy]/;
 
 export const it = new Language("it", (word) => {
-  if (word.length > 20) {
+  if (word.length > 15) {
     return false;
   }
   if (!reAlphabet.test(word)) {

@@ -10,7 +10,7 @@ export function testWord_hr(word) {
   if (frequentSet.has(word) || frequentSet.has(word.toLocaleLowerCase("hr"))) {
     return true;
   }
-  if (word.length > 20) {
+  if (word.length > 15) {
     return false;
   }
   if (!reAlphabet.test(word)) {
