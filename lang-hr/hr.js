@@ -1,15 +1,9 @@
 import { Language } from "../lib/language.js";
-import { frequent } from "./frequent.js";
-
-const frequentSet = new Set(frequent.slice(0, 5000));
 
 const reAlphabet = /^[abcdefghijklmnoprstuvzčćžđš]+$/;
 const reVowels = /[AEIOUaeiou]/;
 
 export function testWord_hr(word) {
-  if (frequentSet.has(word) || frequentSet.has(word.toLocaleLowerCase("hr"))) {
-    return true;
-  }
   if (word.length > 15) {
     return false;
   }
