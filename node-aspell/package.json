@@ -26,9 +26,9 @@
     "clean": "node-gyp clean"
   },
   "dependencies": {
-    "node-addon-api": "^7.1.0"
+    "node-addon-api": "^8.2.2"
   },
   "devDependencies": {
-    "node-gyp": "^10.0.1"
+    "node-gyp": "^10.2.0"
   }
 }
