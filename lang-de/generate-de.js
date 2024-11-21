@@ -1,26 +1,19 @@
-import { loadBlacklist } from "../blacklist/blacklist.js";
-import { processCorpus } from "../lib/corpus.js";
 import { MultiDict } from "../lib/dict.js";
-import { pathTo } from "../lib/io.js";
+import { importRawDict } from "../lib/import-raw-dict.js";
+import { parseCorpus } from "../lib/parse-corpus.js";
 import { de } from "./de.js";
 
-await processCorpus({
+await parseCorpus({
   language: de,
-  files: [
-    "~/Downloads/corpus/opensubtitles/de.txt",
-    pathTo("lang-de/corpus/*.txt"),
-  ],
-  blacklist: loadBlacklist()
-    .add("com", "eng", "etc", "www", "org", "inc")
-    .add("bspw", "bzw", "ca", "evtl", "inkl", "usw")
-    .addFiles(
-      "lang-de/blacklist-cities.txt",
-      "lang-de/blacklist-countries.txt",
-      "lang-de/blacklist-misc.txt",
-      "lang-de/blacklist-names.txt",
-      "lang-de/blacklist-profanity.txt",
-      "lang-de/blacklist-sensitive.txt",
-      "blacklist/english.txt",
-    ),
+  inputFiles: ["lang-de/corpus/*.txt"],
+  outputFile: "lang-de/dictionary-de-books.csv",
+  blacklistFiles: ["blacklist/english.txt"],
+  DictType: MultiDict,
+});
+
+await importRawDict({
+  language: de,
+  outputFile: "lang-de/dictionary-de-movies.csv",
+  blacklistFiles: ["blacklist/english.txt"],
   DictType: MultiDict,
 });

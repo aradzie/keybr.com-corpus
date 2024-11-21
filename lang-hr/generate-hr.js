@@ -1,12 +1,7 @@
-import { loadBlacklist } from "../blacklist/blacklist.js";
-import { processCorpus } from "../lib/corpus.js";
+import { importRawDict } from "../lib/import-raw-dict.js";
 import { hr } from "./hr.js";
 
-await processCorpus({
+await importRawDict({
   language: hr,
-  files: ["~/Downloads/corpus/opensubtitles/hr.txt"],
-  blacklist: loadBlacklist().addFiles(
-    "lang-hr/blacklist-profanity.txt",
-    "lang-hr/blacklist-other.txt",
-  ),
+  blacklistFiles: ["blacklist/english.txt"],
 });

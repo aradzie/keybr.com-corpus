@@ -5,6 +5,7 @@ tmp/
 sandbox/
 .vscode/
 .idea/
+*.rejected
 *.tsbuildinfo
 *.log
 *.bak

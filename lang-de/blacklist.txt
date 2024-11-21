@@ -1,0 +1,12 @@
+com
+eng
+etc
+www
+org
+inc
+bspw
+bzw
+ca
+evtl
+inkl
+usw

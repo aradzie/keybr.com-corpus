@@ -1,7 +1,6 @@
-import { processCorpus } from "../lib/corpus.js";
+import { importRawDict } from "../lib/import-raw-dict.js";
 import { fa } from "./fa.js";
 
-await processCorpus({
+await importRawDict({
   language: fa,
-  files: ["~/Downloads/corpus/opensubtitles/fa.txt"],
 });
