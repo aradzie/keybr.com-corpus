@@ -1,6 +1,6 @@
 import { Language } from "../lib/language.js";
 
-const reAlphabet = /^[aąbcćdeęfghijklłmnńoóprsśtuwyzźż]+$/u;
+const reAlphabet = /^[aąbcćdeęfghijklłmnńoóprsśtuwyzźż]+$/;
 const reVowels = /[AĄEĘIJOÓUYaąeęijoóuy]/;
 
 export function testWord_pl(word) {

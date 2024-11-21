@@ -1,6 +1,6 @@
 import { Language } from "../lib/language.js";
 
-const reAlphabet = /^[abcçdefgğhIıİijklmnoöprsştuüvyz]+$/u;
+const reAlphabet = /^[abcçdefgğhIıİijklmnoöprsştuüvyz]+$/;
 const reVowels = /[AEIİJOUYaeıijoöuüy]/;
 
 export const tr = new Language("tr", (word) => {

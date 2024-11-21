@@ -1,6 +1,6 @@
 import { Language } from "../lib/language.js";
 
-const reAlphabet = /^[ابجدهوزحطيكلمنسعفصقرشتثخذضظغ]+$/u;
+const reAlphabet = /^[ابجدهوزحطيكلمنسعفصقرشتثخذضظغ]+$/;
 
 export const ar = new Language("ar", (word) => {
   if (word.length > 15) {

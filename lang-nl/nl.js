@@ -1,6 +1,6 @@
 import { Language } from "../lib/language.js";
 
-const reAlphabet = /^[abcdefghijklmnopqrstuvwxyz]+$/u;
+const reAlphabet = /^[abcdefghijklmnopqrstuvwxyz]+$/;
 const reVowels = /[AEIJOUYaeijouy]/;
 
 export function testWord_nl(word) {
