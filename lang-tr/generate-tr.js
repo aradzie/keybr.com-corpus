@@ -6,13 +6,17 @@ import { tr } from "./tr.js";
 await writeDict(dictPath(tr), await processDict());
 
 async function processDict() {
-  const blacklist = loadBlacklist()
-    .addFiles(
-      "lang-tr/blacklist-english.txt",
-      "lang-tr/blacklist-profanity.txt",
-      "lang-tr/blacklist-garbage.txt",
-    )
-    .delete("bana", "ben", "de", "geri", "hadi", "mi", "ne", "sana", "ve");
+  const blacklist = loadBlacklist(tr).delete(
+    "bana",
+    "ben",
+    "de",
+    "geri",
+    "hadi",
+    "mi",
+    "ne",
+    "sana",
+    "ve",
+  );
   // const aspell = Aspell.tryMake(tr);
   const dict = new Map();
   for await (const [word0, f] of await readDict(pathTo("lang-tr/dict.csv"))) {

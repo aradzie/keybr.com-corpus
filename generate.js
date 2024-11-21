@@ -1,9 +1,13 @@
 import { loadBlacklist } from "./blacklist/blacklist.js";
+import { be } from "./lang-be/be.js";
+import { cs } from "./lang-cs/cs.js";
+import { sl } from "./lang-sl/sl.js";
+import { sv } from "./lang-sv/sv.js";
+import { uk } from "./lang-uk/uk.js";
 import { processCorpus } from "./lib/corpus.js";
 import { findFiles } from "./lib/io.js";
-import { languages } from "./lib/languages.js";
 
-for (const language of languages) {
+for (const language of [be, cs, sl, sv, uk]) {
   const prefix = `lang-${language.id}`;
   const files = await findFiles([
     `${prefix}/corpus*.txt`,

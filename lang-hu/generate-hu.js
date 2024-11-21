@@ -7,7 +7,7 @@ import { hu } from "./hu.js";
 await writeDict(dictPath(hu), await processDict());
 
 async function processDict() {
-  const blacklist = loadBlacklist().addFiles("lang-hu/blacklist-english.txt");
+  const blacklist = loadBlacklist(hu);
   const aspell = Aspell.tryMake(hu);
   const dict = new Map();
   for (const [word0, f] of await readDict(pathTo("lang-hu/dict.csv"))) {
