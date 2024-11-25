@@ -1,9 +1,10 @@
+import dictionary from "dictionary-sv";
 import { Language } from "../lib/language.js";
 
 const reAlphabet = /^[abcdefghijklmnoprstuvwxyåäö]+$/;
 const reVowels = /[AEIJOUYÅÄÖaeijouyåäö]/;
 
-export const sv = new Language("sv", (word) => {
+export const sv = new Language("sv", dictionary, (word) => {
   if (word.length > 15) {
     return false;
   }

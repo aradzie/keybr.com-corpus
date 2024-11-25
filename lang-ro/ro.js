@@ -1,9 +1,10 @@
+import dictionary from "dictionary-ro";
 import { Language } from "../lib/language.js";
 
 const reAlphabet = /^[aăâbcdefghiîjlmnoprsștțuvxz]+$/;
 const reVowels = /[AĂÂEIÎJOUaăâeiîjou]/;
 
-export const ro = new Language("ro", (word) => {
+export const ro = new Language("ro", dictionary, (word) => {
   if (word.length > 15) {
     return false;
   }

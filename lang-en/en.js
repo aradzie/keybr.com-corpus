@@ -1,9 +1,10 @@
+import dictionary from "dictionary-en";
 import { Language } from "../lib/language.js";
 
 const reAlphabet = /^[abcdefghijklmnopqrstuvwxyz]+$/;
 const reVowels = /[AEIOUYaeiouy]/;
 
-export const en = new Language("en", (word) => {
+export const en = new Language("en", dictionary, (word) => {
   if (word.length > 15) {
     return false;
   }

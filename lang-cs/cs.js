@@ -1,9 +1,10 @@
+import dictionary from "dictionary-cs";
 import { Language } from "../lib/language.js";
 
 const reAlphabet = /^[aábcčdďeéěfghiíjklmnňoóprřsštťuúůvxyýzž]+$/;
 const reVowels = /[AÁEÉĚIÍJOÓUÚŮYÝaáeéěiíjoóuúůyý]/;
 
-export const cs = new Language("cs", (word) => {
+export const cs = new Language("cs", dictionary, (word) => {
   if (word.length > 15) {
     return false;
   }

@@ -1,9 +1,10 @@
+import dictionary from "dictionary-nl";
 import { Language } from "../lib/language.js";
 
 const reAlphabet = /^[abcdefghijklmnopqrstuvwxyz]+$/;
 const reVowels = /[AEIJOUYaeijouy]/;
 
-export function testWord_nl(word) {
+export const nl = new Language("nl", dictionary, (word) => {
   if (word.length > 15) {
     return false;
   }
@@ -14,6 +15,4 @@ export function testWord_nl(word) {
     return false;
   }
   return true;
-}
-
-export const nl = new Language("nl", testWord_nl);
+});
