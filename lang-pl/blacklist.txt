@@ -1,3 +1,4 @@
+
 abo
 ach
 adama
@@ -18,6 +19,7 @@ alfę
 alfie
 alfo
 alfy
+am
 ameryce
 ameryka
 amerykę
@@ -44,6 +46,7 @@ bawcie
 be
 beckett
 bena
+bender
 berlina
 berlinie
 bibi
@@ -52,23 +55,28 @@ blizko
 boba
 bostonie
 bostonu
+briana
 bwana
 byl
 bylo
+cartman
 chandler
 charlesa
 charliego
 chen
+cho
 cie
 clarka
 clarke
 coby
 conto
 cos
+cristina
 czem
 czlowiek
 dajta
 dallas
+daniels
 danielu
 de
 delta
@@ -104,6 +112,7 @@ gdzies
 glowe
 gotham
 hammond
+hatak
 hę
 hej
 hiszpanii
@@ -128,6 +137,7 @@ jakies
 jakis
 jamesa
 japonii
+jasona
 jednoczesnie
 jima
 jo
@@ -163,6 +173,7 @@ londynie
 londynu
 mą
 majatek
+mandy
 manny
 marce
 marek
@@ -214,6 +225,8 @@ oj
 ok
 ony
 onz
+oo
+ooo
 ot
 ów
 owa
@@ -277,6 +290,7 @@ scotta
 scotty
 se
 seattle
+sheldon
 si
 sia
 sią
@@ -288,6 +302,7 @@ sim
 simi
 simpson
 sio
+sloan
 spock
 strażniki
 su
@@ -296,12 +311,14 @@ szczególniej
 szkocji
 teksasu
 tem
+tess
 testament
 thomas
 thomasa
 toaście
 toast
 tokio
+toma
 trza
 twa
 twe
