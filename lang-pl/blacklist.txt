@@ -22,6 +22,10 @@ alfy
 am
 ameryce
 ameryka
+amerykanie
+amerykanin
+amerykaninem
+amerykanów
 amerykę
 anglia
 anglii
@@ -56,6 +60,8 @@ boba
 bostonie
 bostonu
 briana
+brytanii
+burke
 bwana
 byl
 bylo
@@ -64,7 +70,9 @@ chandler
 charlesa
 charliego
 chen
+chińczycy
 cho
+chucka
 cie
 clarka
 clarke
@@ -102,6 +110,9 @@ filadelfii
 florydzie
 francja
 francji
+francuski
+francusku
+francuzi
 franka
 frau
 frodo
@@ -111,6 +122,7 @@ gandalfie
 gdzies
 glowe
 gotham
+gretchen
 hammond
 hatak
 hę
@@ -202,6 +214,7 @@ mlodzieniec
 mógl
 moze
 możnaby
+musze
 mysli
 nader
 naprzykład
@@ -211,6 +224,7 @@ nia
 niczem
 niegdzie
 niem
+niemcy
 niemczech
 niemógł
 niemoże
@@ -254,6 +268,7 @@ pare
 paryż
 paryża
 paryżu
+pastor
 peter
 petera
 pieniadz
@@ -276,6 +291,7 @@ równiez
 równoczesnie
 róza
 rucham
+ryana
 rzecze
 rzym
 rzymie
@@ -285,6 +301,7 @@ samie
 sans
 saro
 sary
+sawyer
 ścierwy
 scotta
 scotty
