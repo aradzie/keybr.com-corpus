@@ -7,7 +7,7 @@ import { nb } from "./nb.js";
 await writeDict(dictPath(nb), await processDict());
 
 async function processDict() {
-  const blacklist = loadBlacklist(nb);
+  const blacklist = loadBlacklist(nb).addFiles("blacklist/english.txt");
   const spellChecker = new SpellChecker(nb);
   const dict = new Map();
   for (const [word, f] of await readDict(pathTo("lang-nb/dict.csv"))) {

@@ -1,12 +1,11 @@
 import { be } from "./lang-be/be.js";
 import { cs } from "./lang-cs/cs.js";
-import { sl } from "./lang-sl/sl.js";
 import { sv } from "./lang-sv/sv.js";
 import { uk } from "./lang-uk/uk.js";
 import { findFiles } from "./lib/io.js";
 import { parseCorpus } from "./lib/parse-corpus.js";
 
-for (const language of [be, cs, sl, sv, uk]) {
+for (const language of [be, cs, sv, uk]) {
   await parseCorpus({
     language,
     inputFiles: findFiles([

@@ -12,6 +12,8 @@ export function loadBlacklist(language) {
       "blacklist/usa-state-names.txt",
       "blacklist/other-names.txt",
       "blacklist/roman-numerals.txt",
+      "blacklist/extra.txt",
+      "blacklist/informal.txt",
       "blacklist/profanity.txt",
       "blacklist/sensitive.txt",
     )

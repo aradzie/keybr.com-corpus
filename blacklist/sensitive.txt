@@ -3,6 +3,8 @@ angelic
 angels
 bible
 bibles
+bloody
+bra
 christ
 christianity
 christians
@@ -13,6 +15,7 @@ communism
 communist
 communists
 criminal
+crook
 demon
 demonic
 demons
@@ -42,6 +45,7 @@ insane
 islam
 islamic
 islamism
+jeez
 jesus
 jew
 jewish
@@ -81,6 +85,7 @@ priests
 prostitute
 prostitutes
 prostitution
+puke
 queer
 queers
 quran
@@ -102,6 +107,7 @@ satanic
 satanism
 satanist
 satanists
+sex
 sexual
 sexuality
 sexualize
@@ -121,6 +127,7 @@ terrorism
 terrorist
 terrorists
 torah
+ugly
 unholy
 vagina
 vaginas

@@ -1,4 +1,3 @@
-
 abo
 ach
 adama
@@ -302,7 +301,6 @@ sans
 saro
 sary
 sawyer
-ścierwy
 scotta
 scotty
 se

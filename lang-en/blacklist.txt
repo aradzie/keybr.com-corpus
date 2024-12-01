@@ -6,7 +6,6 @@ ac
 ad
 ads
 aft
-ah
 aka
 al
 ale
@@ -15,12 +14,10 @@ asst
 aw
 ax
 bis
-bloody
 bod
 bogan
 boo
 bra
-bro
 bu
 ca
 cal
@@ -36,7 +33,6 @@ col
 com
 comm
 condita
-crook
 cur
 da
 dame
@@ -52,7 +48,6 @@ doe
 dos
 du
 duh
-dunno
 e
 ebb
 ed
@@ -71,12 +66,6 @@ fer
 fro
 gar
 gee
-gimme
-goddam
-goddaming
-goddamned
-gonna
-gotta
 gran
 groin
 ha
@@ -91,18 +80,15 @@ id
 imp
 inc
 j
-jeez
 johns
 jr
 kin
-kinda
 kip
 la
 lad
 las
 le
 lei
-lemme
 les
 lo
 los
@@ -118,8 +104,6 @@ monsieur
 mum
 mums
 na
-nah
-nah
 nana
 nba
 newt
@@ -137,9 +121,7 @@ ooh
 oops
 ops
 orc
-outta
 ow
-owe
 oz
 pa
 papal
@@ -147,7 +129,6 @@ par
 pee
 pol
 pooh
-puke
 quo
 raf
 rap
@@ -160,9 +141,7 @@ rob
 rue
 se
 sec
-sex
 shes
-sis
 sol
 sur
 syn
@@ -179,7 +158,6 @@ tor
 tut
 u
 ugh
-ugly
 uh
 um
 un
@@ -192,9 +170,7 @@ wad
 wan
 wed
 wee
-whatcha
 wont
-wow
 y
 ya
 ye
