@@ -3320,6 +3320,7 @@ ourselves
 out
 outer
 outfit
+outlook
 outside
 outta
 oven
@@ -4284,6 +4285,7 @@ skinny
 skip
 skirt
 skull
+sky
 slams
 slap
 slave
@@ -5174,6 +5176,7 @@ widow
 wife
 wifi
 wild
+will
 william
 williams
 willie

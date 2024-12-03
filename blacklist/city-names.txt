@@ -127,6 +127,7 @@ Moresby
 Moroni
 Moscow
 Muscat
+München
 N'Djamena
 Nairobi
 Nassau
@@ -134,9 +135,11 @@ Niamey
 Nicosia
 Nouakchott
 Nuku'alofa
+Osaka
 Oslo
 Ottawa
 Ouagadougou
+Oxford
 Palikir
 Panama
 Paramaribo
@@ -151,7 +154,9 @@ Prague
 Praia
 Pretoria
 Pyongyang
+Quebec
 Quito
+Québec
 Rabat
 Rangoon
 Reykjavik
@@ -197,6 +202,7 @@ Vilnius
 Warsaw
 Washington
 Wellington
+Westminster
 Windhoek
 Yamoussoukro
 Yangon
