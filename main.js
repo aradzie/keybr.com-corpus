@@ -5,6 +5,7 @@ import "./lang-el/generate-el.js";
 import "./lang-en/generate-en.js";
 import "./lang-es/generate-es.js";
 import "./lang-fa/generate-fa.js";
+import "./lang-fa/generate-ga.js";
 import "./lang-fr/generate-fr.js";
 import "./lang-hr/generate-hr.js";
 import "./lang-hu/generate-hu.js";
