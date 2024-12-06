@@ -4,18 +4,20 @@
 
 import chalk from "chalk";
 import { sortByCount } from "../lib/dict.js";
-import { pathTo, readDict, readLines, writeDict } from "../lib/io.js";
+import { pathTo, readDict, writeDict } from "../lib/io.js";
+import { readWords } from "../lib/words.js";
+import { en } from "./en.js";
 
 const dict = new Map(await readDict(pathTo("lang-en/dictionary-en-books.csv")));
 
 const mix = [
-  ["f", await readWords(pathTo("lang-en/words-f.txt"))],
-  ["j", await readWords(pathTo("lang-en/words-j.txt"))],
-  ["q", await readWords(pathTo("lang-en/words-q.txt"))],
-  ["v", await readWords(pathTo("lang-en/words-v.txt"))],
-  ["w", await readWords(pathTo("lang-en/words-w.txt"))],
-  ["x", await readWords(pathTo("lang-en/words-x.txt"))],
-  ["z", await readWords(pathTo("lang-en/words-z.txt"))],
+  ["f", await readWords(en, pathTo("lang-en/words-f.txt"))],
+  ["j", await readWords(en, pathTo("lang-en/words-j.txt"))],
+  ["q", await readWords(en, pathTo("lang-en/words-q.txt"))],
+  ["v", await readWords(en, pathTo("lang-en/words-v.txt"))],
+  ["w", await readWords(en, pathTo("lang-en/words-w.txt"))],
+  ["x", await readWords(en, pathTo("lang-en/words-x.txt"))],
+  ["z", await readWords(en, pathTo("lang-en/words-z.txt"))],
 ];
 
 const keep = new Set();
@@ -58,15 +60,4 @@ function trimDict() {
       }
     }
   }
-}
-
-async function readWords(path) {
-  const words = new Set();
-  for await (const word of readLines(path)) {
-    if (words.has(word)) {
-      console.log(`Duplicate word ${chalk.red(word)}`);
-    }
-    words.add(word);
-  }
-  return words;
 }

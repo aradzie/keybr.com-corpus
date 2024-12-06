@@ -4,11 +4,13 @@
 
 import chalk from "chalk";
 import { sortByCount } from "../lib/dict.js";
-import { pathTo, readDict, readLines, writeDict } from "../lib/io.js";
+import { pathTo, readDict, writeDict } from "../lib/io.js";
+import { readWords } from "../lib/words.js";
+import { uk } from "./uk.js";
 
 const dict = new Map(await readDict(pathTo("lang-uk/dictionary-uk.csv")));
 
-const mix = [["ґ", await readWords(pathTo("lang-uk/words-ґ.txt"))]];
+const mix = [["ґ", await readWords(uk, pathTo("lang-uk/words-ґ.txt"))]];
 
 const keep = new Set();
 
@@ -53,15 +55,4 @@ function trimDict() {
       }
     }
   }
-}
-
-async function readWords(path) {
-  const words = new Set();
-  for await (const word of readLines(path)) {
-    if (words.has(word)) {
-      console.log(`Duplicate word ${chalk.red(word)}`);
-    }
-    words.add(word);
-  }
-  return words;
 }
