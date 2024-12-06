@@ -1,7 +1,7 @@
 import dictionary from "dictionary-uk";
 import { Language } from "../lib/language.js";
 
-const reAlphabet = /^[абвгдеєжзиіїйклмнопрстуфхцчшщьюя]+$/;
+const reAlphabet = /^[абвгґдеєжзиіїйклмнопрстуфхцчшщьюя]+$/;
 const reVowels = /[АЕЄИІЇЙОУЮЯаеєиіїйоуюя]/;
 
 export const uk = new Language("uk", dictionary, (word) => {
