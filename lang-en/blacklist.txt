@@ -142,6 +142,7 @@ rue
 se
 sec
 shes
+sic
 sol
 sur
 syn
@@ -154,6 +155,7 @@ tho
 thou
 thy
 til
+toms
 tor
 tut
 u
@@ -165,6 +167,7 @@ urbe
 usa
 uss
 val
+var
 vim
 wad
 wan
