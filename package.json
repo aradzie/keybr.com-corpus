@@ -6,7 +6,7 @@
     "generate": "node generate.js"
   },
   "dependencies": {
-    "chalk": "^5.3.0",
+    "chalk": "^5.4.1",
     "dictionary-be": "^1.0.0",
     "dictionary-bg": "^2.0.0",
     "dictionary-ca": "^3.0.0",
@@ -37,10 +37,10 @@
     "dictionary-sv": "^4.0.0",
     "dictionary-tr": "^2.0.0",
     "dictionary-uk": "^4.0.0",
-    "glob": "^11.0.0",
+    "glob": "^11.0.1",
     "nspell": "^2.1.5"
   },
   "devDependencies": {
-    "prettier": "^3.3.3"
+    "prettier": "^3.5.3"
   }
 }
