@@ -15,6 +15,7 @@ brimé
 caca
 cadavre
 cadavres
+camé
 cathédrale
 cathédrales
 chapelle
@@ -66,6 +67,7 @@ fasciste
 fascistes
 fentanyl
 fou
+gaie
 ganja
 gitan
 gitans
@@ -194,12 +196,14 @@ sexy
 sionisme
 sioniste
 sionistes
+soutif
 soviet
 soviets
 sperme
 spit
 spits
 stupide
+stups
 suicide
 suicidé
 suicides
