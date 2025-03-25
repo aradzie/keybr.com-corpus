@@ -144,6 +144,8 @@ sec
 shes
 sic
 sol
+stud
+studs
 sur
 syn
 ta
