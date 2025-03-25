@@ -1,239 +1,230 @@
-Afghanistan
-Albanien
-Algerien
-Amerikanisch-Samoa
-Amerikanische Jungferninseln
-Andorra
-Angola
-Anguilla
-Antarktis
-Antigua Barbuda
-Argentinien
-Armenien
-Aruba
-Aserbaidschan
-Australien
-Bahamas
-Bahrain
-Bangladesch
-Barbados
-Belarus
-Belgien
-Belize
-Benin
-Bermuda
-Bhutan
-Bolivien
-Bosnien Herzegowina
-Botsuana Botswana
-Brasilien
-Britische Jungferninseln
-Brunei
-Bulgarien
-Burkina Faso
-Burundi
-Caymaninseln Kaimaninseln
-Chile
-China
-Cookinseln
-Costa Rica
-Demokratische Kongo
-Deutschland
-Deutschlands
-Dominica
-Dominikanische
-Dschibuti
-Dänemark
-Ecuador
-El Salvador
-Elfenbeinküste
-Eritrea
-Estland
-Falklandinseln
-Fidschi
-Finnland
-Frankreich
-Frankreichs
-Französisch-Guayana
-Französisch-Polynesien
-Französische Süd- Antarktisgebiete
-Färöer Färöer-Inseln
-Föderierte Staaten Mikronesien
-Gabun
-Gambia
-Georgien
-Ghana
-Gibraltar
-Grenada
-Griechenland
-Grönland
-Guadeloupe
-Guam
-Guatemala
-Guinea
-Guinea-Bissau
-Guyana
-Haiti
-Honduras
-Hong Kong
-Indien
-Indonesien
-Irak
-Iran Persien
-Irland
-Island
-Israel
-Italien
-Jamaica
-Japan
-Jemen
-Jordanien
-Kambodscha
-Kamerun
-Kanada
-Kap Verde
-Kasachstan
-Katar
-Kenia
-Kirgisistan Kirgistan
-Kiribati
-Kokosinseln Keelinginseln
-Kolumbien
-Komoren
-Kongo
-Kosovo
-Kroatien
-Kuba
-Kuwait
-Laos
-Lesotho
-Lettland
-Libanon
-Liberia
-Libyen
-Liechtenstein
-Litauen
-Luxemburg
-Macau
-Madagaskar
-Malawi
-Malaysia
-Malediven
-Mali
-Malta
-Marianen
-Marokko
-Marshallinseln
-Martinique
-Mauritanien
-Mauritius
-Mayotte
-Mexico
-Moldau Moldavien
-Monaco Fürstentum Monaco
-Mongolei
-Montenegro
-Montserrat
-Mosambik
-Myanmar Birma Burma
-Namibia
-Nauru
-Nepal
-Neukaledonien
-Neuseeland
-Nicaragua
-Niederlande Holland
-Niederlanden
-Niger
-Nigeria
-Nordkorea
-Nordmazedonien
-Norwegen
-Oman
-Osttimor
-Osttimor
-Pakistan
-Palau
-Panama
-Papua-Neuguinea
-Paraguay
-Peru
-Philippinen
-Pitcairn
-Polen
-Portugal
-Puerto Rico
-Ruanda Rwanda
-Rumänien
-Russland Russische Föderation
-Réunion
-Salomonen
-Sambia
-Samoa
-San Marino
-Saudi-Arabien
-Schweden
-Schweiz
-Senegal
-Serbien
-Seychellen
-Sierra Leone
-Simbabwe
-Singapur
-Slovenien
-Slowakei
-Somalia
-Spanien
-Sri Lanka Ceylon
-St. Kitts Nevis
-St. Lucia
-St. Vincent Grenadinen
-Staat Palästina
-Sudan
-Suriname Surinam
-Swasiland Eswatini
-Syrien
-São Tomé Príncipe
-Südafrika
-Südkorea Korea
-Südsudan
-Tadschikistan
-Taiwan
-Tansania
-Thailand
-Tibet
-Togo
-Tokelau
-Tonga
-Trinidad Tobago
-Tschad
-Tschechien
-Tunesien
-Turkmenistan
-Turks Caicosinseln
-Tuvalu
-Türkei
-Uganda
-Ukraine
-Ungarn
-Uruguay
-Usbekistan
-Vanuatu
-Vatikanstadt Heiliger Stuhl
-Venezuela
-Vereinigte Arabische Emirate
-Vereinigte Staaten Amerika USA
-Vereinigtes Königreich Großbritannien England
-Vietnam
-Volksrepublik
-Wallis Futuna
-Weihnachtsinsel
-Weißrussland
-Westsahara
-Zentralafrikanische
-Zypern
-Ägypten
-Äquatorialguinea
-Äthiopien
-Österreich
-Österreichs
+afghanistan
+ägypten
+albanien
+algerien
+amerikanische jungferninseln
+andorra
+angola
+anguilla
+antarktis
+antigua barbuda
+äquatorialguinea
+argentinien
+armenien
+aruba
+aserbaidschan
+äthiopien
+australien
+bahamas
+bahrain
+bangladesch
+barbados
+belarus
+belgien
+belize
+benin
+bermuda
+bhutan
+bolivien
+bosnien herzegowina
+botsuana botswana
+brasilien
+britische jungferninseln
+brunei
+bulgarien
+burkina faso
+burundi
+caymaninseln kaimaninseln
+chile
+china
+cookinseln
+costa rica
+dänemark
+demokratische kongo
+deutschland
+deutschlands
+dominica
+dominikanische
+dschibuti
+ecuador
+el salvador
+elfenbeinküste
+eritrea
+estland
+falklandinseln
+fidschi
+finnland
+föderierte staaten mikronesien
+frankreich
+frankreichs
+gabun
+gambia
+georgien
+ghana
+gibraltar
+grenada
+griechenland
+grönland
+guadeloupe
+guam
+guatemala
+guinea
+guyana
+haiti
+honduras
+hong kong
+indien
+indonesien
+irak
+iran persien
+irland
+island
+israel
+italien
+jamaica
+japan
+jemen
+jordanien
+kambodscha
+kamerun
+kanada
+kap verde
+kasachstan
+katar
+kenia
+kirgisistan kirgistan
+kiribati
+kokosinseln keelinginseln
+kolumbien
+komoren
+kongo
+kosovo
+kroatien
+kuba
+kuwait
+laos
+lesotho
+lettland
+libanon
+liberia
+libyen
+liechtenstein
+litauen
+luxemburg
+macau
+madagaskar
+malawi
+malaysia
+malediven
+mali
+malta
+marianen
+marokko
+marshallinseln
+martinique
+mauritanien
+mauritius
+mayotte
+mexico
+moldau moldavien
+monaco fürstentum monaco
+mongolei
+montenegro
+montserrat
+mosambik
+myanmar birma burma
+namibia
+nauru
+nepal
+neukaledonien
+neuseeland
+nicaragua
+niederlande holland
+niederlanden
+niger
+nigeria
+nordkorea
+nordmazedonien
+norwegen
+oman
+österreich
+österreichs
+osttimor
+pakistan
+palau
+panama
+paraguay
+peru
+philippinen
+pitcairn
+polen
+portugal
+puerto rico
+réunion
+ruanda rwanda
+rumänien
+russland russische föderation
+salomonen
+sambia
+samoa
+san marino
+são tomé príncipe
+schweden
+schweiz
+senegal
+serbien
+seychellen
+sierra leone
+simbabwe
+singapur
+slovenien
+slowakei
+somalia
+spanien
+sri lanka ceylon
+st. kitts nevis
+st. lucia
+st. vincent grenadinen
+staat palästina
+südafrika
+sudan
+südkorea korea
+südsudan
+suriname surinam
+swasiland eswatini
+syrien
+tadschikistan
+taiwan
+tansania
+thailand
+tibet
+togo
+tokelau
+tonga
+trinidad tobago
+tschad
+tschechien
+tunesien
+türkei
+turkmenistan
+turks caicosinseln
+tuvalu
+uganda
+ukraine
+ungarn
+uruguay
+usbekistan
+vanuatu
+vatikanstadt heiliger stuhl
+venezuela
+vereinigte arabische emirate
+vereinigte staaten amerika usa
+vereinigtes königreich großbritannien england
+vietnam
+volksrepublik
+wallis futuna
+weihnachtsinsel
+weißrussland
+westsahara
+zentralafrikanische
+zypern

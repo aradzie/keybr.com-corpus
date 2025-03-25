@@ -1,7 +1,7 @@
 import { readFileSync, writeFileSync } from "node:fs";
 import { pathTo } from "./lib/io.js";
 
-const lang = `nl`;
+const lang = `de`;
 const file = `lang-${lang}/blacklist-sensitive.txt`;
 const collator = new Intl.Collator(lang, { sensitivity: "base" });
 
