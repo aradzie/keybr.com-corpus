@@ -109,6 +109,8 @@ masacrar
 masacres
 mata
 matar
+matarían
+matarse
 matón
 matones
 met
@@ -137,6 +139,9 @@ papa
 pascua
 pastor
 pastores
+pecador
+pecadora
+pecadores
 pecados
 pene
 penes
