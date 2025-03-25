@@ -10,13 +10,9 @@ bogu
 bordel
 crkva
 crkve
-crkve
 crkveni
 crkvi
 crkvu
-đavo
-đavolji
-đavolski
 djevica
 djevičanstvo
 dođavola
@@ -24,6 +20,9 @@ dolar
 dolara
 dovraga
 drolja
+đavo
+đavolski
+đavolji
 grudima
 heroin
 heroina
@@ -39,7 +38,6 @@ krist
 kvragu
 lud
 luda
-luđak
 lude
 ludi
 ludila
@@ -51,6 +49,7 @@ ludo
 ludost
 ludovati
 ludu
+luđak
 nacist
 nacista
 nacisti
