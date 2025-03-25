@@ -91,7 +91,6 @@ kuttelikkertje
 kwakkie
 liefdesgrot
 lul
-lul-de-behanger
 lulhannes
 lullen
 lullig
@@ -163,7 +162,9 @@ schoft
 schuinsmarcheerder
 slempen
 slet
+sletten
 sletterig
+sloerie
 snol
 spuiten
 standje
