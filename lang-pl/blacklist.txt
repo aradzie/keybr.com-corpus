@@ -110,6 +110,7 @@ florydzie
 francja
 francji
 francuski
+francuskiego
 francusku
 francuzi
 franka
@@ -141,6 +142,8 @@ iż
 j
 jacka
 jackiem
+jackson
+jacksona
 jaffa
 jaj
 jakas
@@ -162,6 +165,7 @@ jużci
 juzu
 ka
 ką
+kaca
 kalifornia
 kalifornii
 kanady
@@ -272,6 +276,7 @@ peter
 petera
 pieniadz
 pieniedzy
+pierdoły
 pierwej
 pilniej
 pilno
@@ -286,6 +291,7 @@ richarda
 robercie
 roki
 roków
+rol
 równiez
 równoczesnie
 róza

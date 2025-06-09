@@ -11,6 +11,7 @@ bibliom
 bog
 boga
 bogą
+bogiem
 bogiń
 bogini
 boginią
@@ -19,7 +20,12 @@ boginiami
 boginie
 boginię
 boginiom
+bogów
+bogowie
 bogu
+boska
+boską
+boskie
 burdel
 burdelach
 burdelami
@@ -196,6 +202,16 @@ pochwie
 pochwo
 pochwom
 pochwy
+prostytutce
+prostytutek
+prostytutka
+prostytutką
+prostytutkach
+prostytutkami
+prostytutkę
+prostytutki
+prostytutko
+prostytutkom
 religia
 religią
 religiach
