@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "generate": "node generate.js"
+    "postinstall": "uv sync"
   },
   "dependencies": {
     "chalk": "^5.6.2",

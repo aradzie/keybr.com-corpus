@@ -1,15 +1,31 @@
 # keybr.com-corpus
 
-This repository is a bunch of scripts for developing word frequency dictionaries.
+Scripts and data for building curated word-frequency dictionaries used by
+`keybr.com`.
 
-To build a word frequency dictionary, one needs a corpus of text.
-Various corpora can be obtained from https://opus.nlpl.eu/
+The repository combines:
 
-We prefer:
+- raw frequency lists in `raw/`
+- per-language rules in `lang-*/`
+- shared import/parsing helpers in `lib/`
+- shared blacklist sources in `blacklist/`
 
-* Contemporary, simple, every day language.
-* Unbiased language that is not focused on any topic, such as politics or technology.
-* Language that is not vulgar, obscene or otherwise triggering.
+The output of most workflows is a `lang-*/dictionary-*.csv` file containing
+words with normalized frequency scores in parts per million.
 
-The word frequency dictionaries are often built in collaboration with native speakers,
-who manually and carefully review the lists to remove any bad words. 
+## Goals
+
+The dictionaries in this repository are intended to prefer:
+
+- common everyday language
+- broad, topic-neutral vocabulary
+- words suitable for typing practice
+
+The filtering process tries to remove:
+
+- profanity and sensitive terms
+- names, brands, and locations
+- malformed tokens and non-words
+- language bleed from English or other languages
+
+Some lists are also reviewed manually by native speakers.
