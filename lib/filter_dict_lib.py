@@ -1,11 +1,8 @@
 import csv
 import gzip
 import unicodedata
-from collections.abc import Iterable
+from collections.abc import Callable, Iterable
 from pathlib import Path
-from re import Pattern
-
-import enchant
 
 
 def iter_rows(path: Path) -> Iterable[list[str]]:
@@ -13,18 +10,8 @@ def iter_rows(path: Path) -> Iterable[list[str]]:
     yield from csv.reader(handle)
 
 
-def is_valid_word(dictionary: enchant.Dict, regexp: Pattern[str],
-                  word: str) -> bool:
-  if regexp.fullmatch(word) is None:
-    return False
-
-  return dictionary.check(word)
-
-
-def filter_dict(input_file: Path, output_file: Path, language_name: str,
-                regexp: Pattern[str]) -> None:
-  spell_dictionary = enchant.Dict(language_name)
-
+def filter_dict(input_file: Path, output_file: Path,
+                is_valid_word: Callable[[str], bool]) -> None:
   total_rows = 0
   kept_rows = 0
   dropped_rows = 0
@@ -50,7 +37,7 @@ def filter_dict(input_file: Path, output_file: Path, language_name: str,
         malformed_rows += 1
         continue
 
-      if is_valid_word(spell_dictionary, regexp, word):
+      if is_valid_word(word):
         writer.writerow((word, count))
         kept_rows += 1
       else:
