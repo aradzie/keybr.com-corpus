@@ -42,7 +42,9 @@
     "dictionary-tr": "^2.0.0",
     "dictionary-uk": "^4.0.0",
     "glob": "^13.0.6",
-    "nspell": "^2.1.5"
+    "nspell": "^2.1.5",
+    "ollama": "^0.6.3",
+    "openai": "^6.33.0"
   },
   "devDependencies": {
     "prettier": "^3.8.1"
