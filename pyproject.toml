@@ -1,0 +1,9 @@
+[project]
+name = "keybr-com-corpus"
+version = "0.0.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+  "pyenchant>=3.3.0",
+]
