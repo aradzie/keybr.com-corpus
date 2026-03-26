@@ -1,5 +1,5 @@
 import { Ollama } from "ollama";
-import { pathTo, readDict, writeRejected } from "./lib/io.js";
+import { pathTo, readDict, writeWords } from "./lib/io.js";
 
 const ollama = new Ollama({});
 
@@ -16,7 +16,7 @@ for (const [index, chunk] of chunks.entries()) {
   for (const word of response.response.split(/\s+/)) {
     blacklist.add(word);
   }
-  await writeRejected(pathTo("lang-fi/blacklist-ai.txt"), blacklist);
+  await writeWords(pathTo("lang-fi/blacklist-ai.txt"), blacklist);
 }
 
 function chunkItems(items, size) {
