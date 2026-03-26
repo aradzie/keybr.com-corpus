@@ -375,7 +375,6 @@ Balsam
 Bana
 Bancroft
 Banderas
-Banks
 Baptiste
 Barack
 Barbara
@@ -479,7 +478,6 @@ Blanchett
 Blanka
 Blethyn
 Bleu
-Bloke
 Blossom
 Bob
 Bobbi
@@ -561,7 +559,6 @@ Busch
 Bushman
 Buster
 Butler
-Buttons
 Buzzell
 Byrne
 Byron
@@ -721,7 +718,6 @@ Claude
 Claudette
 Claudia
 Claudius
-Clay
 Clayburgh
 Clayton
 Cleese
@@ -730,7 +726,6 @@ Clementine
 Clemmie
 Cleo
 Cleveland
-Cliff
 Clifford
 Clift
 Clifton
@@ -809,7 +804,6 @@ Cromwell
 Cronyn
 Crosby
 Crowe
-Cruise
 Cruz
 Cruze
 Cuba
@@ -872,7 +866,6 @@ David
 Davies
 Davis
 Dawid
-Dawn
 Dawson
 Dawud
 Dax
@@ -924,7 +917,6 @@ Diaz
 Dibdin
 Dick
 Diego
-Diesel
 Dietrich
 Digby
 Dilan
@@ -961,7 +953,6 @@ Draper
 Dressler
 Drew
 Dreyfuss
-Driver
 Dua
 Duaa
 Duane
@@ -969,7 +960,6 @@ Duchovny
 Dudley
 Dujardin
 Dukakis
-Duke
 Dulcie
 Dunaway
 Dunst
@@ -977,7 +967,6 @@ Durante
 Duris
 Dushku
 Dustin
-Dusty
 Duvall
 Dwayne
 Dwight
@@ -1023,7 +1012,6 @@ Ela
 Elaine
 Elara
 Elba
-Elder
 Eleanor
 Elena
 Eleni
@@ -1233,7 +1221,6 @@ Ford
 Foreman
 Forrest
 Fosse
-Foster
 Foxx
 Frances
 Francesca
@@ -1390,7 +1377,6 @@ Guitry
 Gurbaaz
 Gurfateh
 Gus
-Guy
 Guzman
 Gwen
 Gwendolyn
@@ -1442,7 +1428,6 @@ Hara
 Harden
 Harding
 Hardy
-Hare
 Hargitay
 Hari
 Haris
@@ -1452,7 +1437,6 @@ Harlen
 Harley
 Harlie
 Harlow
-Harmony
 Harold
 Haroon
 Harper
@@ -1942,7 +1926,6 @@ Kirk
 Kirkland
 Kirkwood
 Kirsten
-Kit
 Kitsch
 Kitty
 Kiyaan
@@ -1953,7 +1936,6 @@ Klay
 Klein
 Kline
 Klugman
-Knight
 Knightley
 Knowles
 Koa
@@ -2006,7 +1988,6 @@ Laiba
 Laila
 Lainey
 Laith
-Lake
 Lam
 Lana
 Lancaster
@@ -2286,7 +2267,6 @@ Marion
 Marisa
 Mariska
 Marjorie
-Mark
 Markas
 Markus
 Marla
@@ -2377,7 +2357,6 @@ Melina
 Melinda
 Melisa
 Melissa
-Melody
 Melvin
 Melvyn
 Mercedes
@@ -2418,7 +2397,6 @@ Milan
 Milana
 Mildred
 Milena
-Miles
 Miley
 Milla
 Milland
@@ -2680,7 +2658,6 @@ Paolo
 Paquin
 Paris
 Parker
-Parks
 Parsons
 Pat
 Patel
@@ -2823,7 +2800,6 @@ Rea
 Reagan
 Rebeca
 Rebecca
-Rebel
 Redd
 Redford
 Redgrave
@@ -2839,8 +2815,6 @@ Reggie
 Regina
 Reginald
 Rehmat
-Reid
-Reign
 Reina
 Reiner
 Remi
@@ -3071,7 +3045,6 @@ Seidel
 Seinfeld
 Selena
 Selina
-Sellers
 Seren
 Serena
 Serenity
@@ -3203,7 +3176,6 @@ Streisand
 Strode
 Stroheim
 Stuart
-Styles
 Subhan
 Sue
 Sufyan
@@ -3423,7 +3395,6 @@ Waltz
 Wanda
 Wang
 Warburton
-Ward
 Warfield
 Warner
 Warren
@@ -3514,7 +3485,6 @@ Yasmine
 Yazan
 Yolanda
 York
-Younger
 Yousef
 Yousif
 Youssef

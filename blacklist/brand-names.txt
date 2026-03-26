@@ -101,14 +101,12 @@ Siemens
 Sinopec
 Skype
 Sony
-Spectrum
 Spotify
 Starbucks
 Subaru
 Suzuki
 TSMC
 Taobao
-Target
 Tata
 Tencent
 Tesla
@@ -129,7 +127,6 @@ Walmart
 WeChat
 Wells Fargo
 Whatsapp
-Windows
 Wordpress
 Wuliangye
 Xbox
