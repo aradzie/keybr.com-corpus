@@ -2,13 +2,16 @@ import { readFile, writeFile } from "node:fs/promises";
 import { requestAi } from "./lib/ai.js";
 import { pathTo, readDict } from "./lib/io.js";
 
-class Log {
-  static path = pathTo("lang-es/blacklist-ai.txt");
+const dictPath = pathTo("lang-fr/dictionary-fr.csv");
+const blacklistPath = pathTo("lang-fr/blacklist-ai.txt");
 
+class Log {
   static async load() {
-    return new Log(
-      (await readFile(Log.path, "utf-8")).split(/\n+/g).filter(Boolean),
-    );
+    let lines = [];
+    try {
+      lines = (await readFile(blacklistPath, "utf-8")).split(/\n+/g);
+    } catch {}
+    return new Log(lines);
   }
 
   #lines = [];
@@ -26,12 +29,12 @@ class Log {
   }
 
   async save() {
-    await writeFile(Log.path, this.#lines.join("\n") + "\n");
+    await writeFile(blacklistPath, this.#lines.join("\n") + "\n");
   }
 }
 
-const entries = await readDict(pathTo("lang-es/dictionary-es.csv"));
-const chunks = chunkItems(entries, 100);
+const entries = await readDict(dictPath);
+const chunks = chunkItems(entries, 100).slice(70);
 const log = await Log.load();
 
 for (const [index, chunk] of chunks.entries()) {
@@ -54,15 +57,15 @@ function chunkItems(items, size) {
 
 function buildPrompt(chunk) {
   return [
-    "You are a linguistic filter for the Spanish language.",
-    "You will be given a list of Spanish words to check.",
+    "You are a linguistic filter for the French language.",
+    "You will be given a list of French words to check.",
     "Your job is to find profane, obscene, inappropriate words.",
     "Return a list text lines formatted as follows.",
-    "If you find a profane or curse word then write a line formatted as `${spanishWord}|profane|${englishExplanation}`",
-    "If you find a word strongly related to religion, ideology, nationality or racism then write a line formatted as `${spanishWord}|sensitive|${englishExplanation}`",
-    "If you find a word strongly related to sex then write a line formatted as `${spanishWord}|sex|${englishExplanation}`",
+    "If you find a profane or curse word then write a line formatted as `${frenchWord}|profane|${englishExplanation}`",
+    "If you find a word strongly related to religion, ideology, nationality or racism then write a line formatted as `${frenchWord}|sensitive|${englishExplanation}`",
+    "If you find a word strongly related to sex then write a line formatted as `${frenchWord}|sex|${englishExplanation}`",
     "",
-    "The list of Spanish words to check:",
+    "The list of French words to check:",
     "",
     ...chunk.map(([word]) => `${word}`),
   ].join("\n");

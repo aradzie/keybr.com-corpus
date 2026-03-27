@@ -1,0 +1,251 @@
+abrutis|profane|insults meaning "idiots" or "morons"
+africain|sensitive|African; nationality/ethnic descriptor
+alcoolique|sensitive|alcoholic; potentially sensitive due to addiction-related stigma
+alla|sensitive|likely refers to Allah, a strongly religion-related term
+allemand|sensitive|German; nationality term
+allemande|sensitive|German (feminine); nationality-related
+allemands|sensitive|Germans; nationality term
+américain|sensitive|American; nationality-related term
+américaine|sensitive|refers to an American woman/person; nationality-related term
+américains|sensitive|Americans; nationality-related term
+anglais|sensitive|English; nationality/language-related term
+arabe|sensitive|Arab; nationality/ethnic identity term
+asiatique|sensitive|Asian; ethnicity/nationality-related term
+baisé|profane|vulgar term meaning “fucked”; from “baiser,” also used sexually
+baise|sex|vulgar term meaning sex or fuck; explicitly sexual and obscene
+baisée|sex|fucked / had sex; from “baiser,” can be explicitly sexual or vulgar depending on context
+baises|sex|“you fuck” / from “baiser”; explicit sexual slang/verb
+baisés|sex|fucked; from "baiser," vulgar sexual meaning in modern French
+bander|sex|to get an erection; also slang with sexual meaning
+bénédiction|sensitive|blessing; strongly related to religion
+bénie|sensitive|“blessed,” strongly associated with religion
+bénisse|sensitive|religious term meaning "bless"
+blancs|sensitive|refers to white people/white ethnicity; racial or nationality-related term depending on context
+bouffer|profane|vulgar slang meaning to eat, akin to “stuff your face”
+bourré|profane|colloquial French term meaning "drunk" or "wasted," can be inappropriate slang
+bourrée|profane|slang for very drunk; can be vulgar/inappropriate in tone
+bousillé|profane|wrecked/screwed up; colloquial vulgar term
+branle|sex|wank / masturbation; vulgar sexual term in French
+britannique|sensitive|British; nationality term
+britanniques|sensitive|British; nationality-related term
+buter|profane|colloquial slang meaning "to kill" or "to bump off"
+canadien|sensitive|Canadian; nationality
+canaille|profane|insult meaning scoundrel, rascal, or lowlife
+capote|sex|condom; also means car hood in general, but strongly associated with contraception
+capotes|sex|can mean "condoms" in French slang/common usage
+catholique|sensitive|strongly related to religion: Catholic
+catholiques|sensitive|Catholics; religion-related term
+chantage|profane|blackmail; criminal coercion term
+chatte|sex|vulgar term for female genitals
+chattes|sex|slang vulgar term for female genitals in French
+chialer|profane|to whine or bitch; vulgar/informal verb
+chié|profane|past participle of vulgar verb 'chier', meaning 'shit'
+chienne|profane|bitch; insulting term, also literally female dog
+chinois|sensitive|refers to Chinese people/nationality; nationality-related term
+chinoise|sensitive|Chinese woman/feminine adjective for Chinese; nationality/ethnicity term
+chiottes|profane|shitters/toilet; vulgar slang
+chrétien|sensitive|Christian; religion-related term
+chrétienne|sensitive|Christian/feminine form of “Christian,” strongly related to religion
+cinglé|profane|crazy/derogatory insult meaning “nuts” or “mad”
+cinglés|profane|crazy/nuts; insulting and derogatory
+clope|profane|slang for cigarette; vulgar/informal term
+clopes|profane|slang for cigarettes; informal/vulgar register and can be considered inappropriate in some contexts
+cochonneries|profane|filthy or dirty things; can imply obscene or vulgar stuff
+communion|sensitive|communion; strongly related to religion
+coquine|sex|suggestive term meaning "naughty" or "teasing," often with sexual connotation
+coréen|sensitive|Korean; nationality term
+crève|profane|croak/die; rude or vulgar term for dying
+crosse|sensitive|can refer to a bishop's crozier, a religious symbol
+culot|profane|contains "cul", a vulgar French term for ass/butt; as a standalone word it means audacity/nerve
+culottes|sex|underwear/panties; intimate clothing
+curé|sensitive|priest, strongly related to religion
+damné|sensitive|means “damned,” strongly related to religious vocabulary
+dealers|profane|drug dealers; term strongly associated with illegal drug trade
+débiles|profane|idiots/morons; insulting term
+défonce|profane|slang for getting wasted/high; drug-related vulgar slang
+défoncé|profane|stoned/high; vulgar slang for being intoxicated
+défoncée|profane|slang for extremely high, wasted, or smashed
+défoncer|profane|vulgar slang meaning “to smash up” or “to get very high”; can be used in obscene or crude contexts
+dégénéré|profane|degenerate; insulting derogatory term
+dégueu|profane|gross/disgusting; vulgar slang from "dégueulasse"
+dégueulasse|profane|disgusting / gross; vulgar insult
+dément|profane|insult meaning insane/crazy; derogatory toward mental condition
+diarrhée|profane|diarrhea; vulgar/scatological term
+drogué|sensitive|drug addict / drugged person; sensitive term related to substance abuse
+drogués|profane|junkies/drug addicts; derogatory or inappropriate term for people using drugs
+écossais|sensitive|Scottish; nationality term
+enceinte|sex|pregnant; related to pregnancy and reproduction
+enceintes|sex|pregnant women / pregnant; strongly related to reproduction/sex
+enfoirés|profane|insult meaning bastards/assholes
+érection|sex|erection; explicit sexual/body term
+érotique|sex|erotic; explicitly related to sexual content
+esclave|sensitive|term related to slavery and oppression meaning "slave"
+esclaves|sensitive|term related to slavery and oppression meaning "slaves"
+espagnol|sensitive|Spanish; nationality/ethnic identifier
+espagnole|sensitive|Spanish woman/feminine of Spanish; nationality reference
+excitant|sex|can mean "arousing"/"stimulating", including sexual arousal depending on context
+excitante|sex|sexually exciting or arousing
+excitée|sex|sexually aroused; can be used in a sexual context
+excités|sex|aroused/excited; can carry a sexual meaning
+fantasme|sex|sexual fantasy; often used in a sexual sense
+fantasmes|sex|sexual fantasies
+fesses|sex|buttocks / ass
+fichu|profane|mildly vulgar adjective/interjection meaning "damned" or "screwed"
+fichue|profane|mildly profane euphemistic form used like "damned"
+flic|profane|slang/derogatory term for police, similar to "cop"
+flics|profane|slang/derogatory term for police, similar to "cops"
+flingue|profane|slang for a gun; associated with violence and potentially inappropriate language
+flingué|profane|slang meaning “shot,” “wrecked,” or “screwed up”; coarse familiar language
+flinguer|profane|slang vulgar verb meaning "to shoot" or "to kill"
+flingues|profane|slang for guns, potentially vulgar/crude in tone
+foire|profane|fair, but also used in vulgar expressions related to mess or diarrhea
+foiré|profane|fucked up; vulgar term meaning messed up or botched
+foirer|profane|vulgar verb meaning to screw up/fuck up
+foireux|profane|vulgar slang meaning crappy, lousy, or messed up
+fout|profane|from "foutre"; vulgar/profane term meaning "damn," "fuck," or "to not care" depending on context
+foutais|profane|from "foutre," a vulgar French verb meaning "to do/fuck around"; used as profanity
+foutaises|profane|French slang meaning "nonsense" or "bullshit"
+foutait|profane|from "foutre," vulgar verb meaning "to do/give a damn/fuck around" depending on context
+foutent|profane|from “foutre,” vulgar/profane verb meaning mess around/fuck around
+foutez|profane|imperative/plural form of "foutre", a vulgar verb meaning "to do/give a damn" or stronger depending on context
+foutoir|profane|vulgar term meaning a mess, dump, or chaotic place; derived from "foutre"
+foutu|profane|damned / screwed; mild French profanity derived from "foutre"
+foutue|profane|from “foutu/foutue,” a mild vulgar term meaning “damned” or “screwed”
+foutues|profane|from "foutu/foutre"; mild vulgar term meaning "damned" or "screwed"
+foutus|profane|damned / screwed; mildly vulgar expression
+français|sensitive|French; nationality term
+française|sensitive|strongly related to nationality: French woman/feminine French adjective
+frère|sensitive|religious term meaning "brother," also strongly associated with religious address or identity in some contexts
+frérot|profane|slang for "bro"; can be used in rude or street language contexts
+froc|profane|slang for trousers, also used in the expression "baisser son froc" with vulgar undertone
+gai|sensitive|gay; related to sexual orientation/LGBT identity
+gémissements|sex|moans, often associated with sexual context
+gerber|profane|vulgar slang meaning "to puke/vomit"
+ghetto|sensitive|ghetto; term related to ethnicity, segregation, or marginalized communities
+gonzesse|profane|derogatory slang for a woman
+gonzesses|profane|slang, derogatory term for women; akin to "broads/chicks"
+grec|sensitive|Greek; nationality/ethnic descriptor
+grossesse|sex|pregnancy; strongly related to sex/reproduction
+gueule|profane|vulgar term for mouth/face; also used in insults like "shut up"
+gueules|profane|mugs/traps; rude slang for faces/mouths, can be insulting
+hétéro|sex|heterosexual; sexual orientation term
+hippie|sensitive|member of the hippie movement; related to ideology/counterculture
+homos|sensitive|pejorative/informal term for homosexuals; can be derogatory
+impuissant|sex|impotent; strongly related to sexual impotence
+indien|sensitive|related to nationality/ethnicity; means "Indian" or "Indigenous person" depending on context
+indienne|sensitive|Indian woman/Indian; nationality or ethnicity-related term
+indiens|sensitive|Indians; nationality/ethnic group reference
+indigènes|sensitive|refers to indigenous/native people; can relate to ethnicity or nationality
+intime|sex|intimate; can refer to sexual/private matters
+intimité|sex|intimacy; can refer to private/sexual intimacy
+irlandais|sensitive|Irish, a nationality term
+italien|sensitive|Italian; nationality term##
+italienne|sensitive|Italian woman / Italian; nationality-related term
+italiens|sensitive|Italians; nationality term
+ivrogne|profane|insulting term meaning “drunkard”
+japonais|sensitive|Japanese; nationality term
+japonaise|sensitive|Japanese woman; nationality-related term
+jouir|sex|to orgasm; to experience sexual pleasure
+juive|sensitive|Jewish (feminine); nationality/ethnicity/religion-related
+jures|profane|from “jurer”; can refer to swearing or uttering curse words
+larbin|profane|insulting term meaning lackey or servant; derogatory toward a person
+lesbienne|sex|lesbian; term related to sexual orientation
+lesbiennes|sex|lesbians; sexual orientation term
+lingerie|sex|underwear/lingerie; strongly associated with sexual clothing
+macho|sensitive|sexist/macho male; gender-related sensitive term
+maquereau|sex|pimp; person who procures prostitution
+maries|sensitive|likely refers to “married” or the name Marie; can be religion-related in some contexts but ambiguous
+marijuana|sex|drug term; often treated as adult/inappropriate content
+martyr|sensitive|religious and ideological term meaning "martyr"
+mater|sex|slang verb meaning to ogle or check out someone lustfully
+maudit|profane|damned; cursed
+maudite|profane|cursed/damned; can be used as a mild curse
+maudits|profane|damned/cursed; mild profanity or curse-related term
+mesdemoiselles|sensitive|gendered form of address for unmarried women, potentially sensitive identity-related term
+meuf|profane|slang for "woman/chick"; can be inappropriate depending on context
+meufs|sex|slang for women/girls, roughly "chicks"
+meurs|profane|imperative/inflected form of “mourir” (“die”); can be used aggressively as “die!”
+mexicain|sensitive|Mexican; nationality/ethnic identifier
+mexicaine|sensitive|Mexican; nationality term
+monseigneur|sensitive|Monsignor; a high-ranking title in the Catholic Church
+mort|sensitive|death-related term; can be sensitive due to violence or mortality context
+mortel|profane|can be used as a death-related or violent term
+morveux|profane|snot-nosed brat; insulting term
+moule|sex|slang vulgar term for the vulva
+musulman|sensitive|Muslim; refers to religion and can be sensitive in moderation contexts
+nana|sex|slang term for a girl/woman; can be considered objectifying or sexualized in some contexts
+nanas|sex|slang for girls/chicks; informal term with sexualized undertone
+nichons|sex|vulgar slang for breasts
+noires|sensitive|black; can refer to race
+noirs|sensitive|“Blacks”; refers to race/ethnicity
+nu|sex|naked, related to nudity
+nue|sex|means "naked" in French, directly related to nudity
+nus|sex|naked; plural masculine form of "nude"
+ordure|profane|trash/scum; insulting profane term
+ordures|profane|insult meaning scum/trash
+overdose|sensitive|overdose, related to drugs and self-harm
+paroisse|sensitive|parish; strongly related to religion
+parrain|sensitive|godfather; can be strongly associated with religion in baptism context
+pègre|profane|derogatory term for criminal underworld or riffraff
+pervers|sex|pervert; sexually deviant or obscene person
+pète|profane|from "péter", meaning to fart; vulgar/inappropriate bodily term
+péter|profane|to fart; can be vulgar/crude in French
+pipi|sex|childish term for pee/urination, bodily/sexual-related content
+pissé|profane|vulgar past participle of “pisser,” meaning “pissed/urinated”
+pisse|profane|vulgar term meaning "piss" or urine
+polonais|sensitive|Polish; nationality/ethnic reference
+pompes|profane|in slang, can refer to oral sex or be used in vulgar expressions
+prières|sensitive|prayers; strongly related to religion
+priez|sensitive|pray; explicitly religious term
+prions|sensitive|we pray; strongly related to religion
+pue|profane|from "puer", meaning "stinks"; can be insulting/offensive in direct use
+pulsions|sex|sexual urges or drives
+racaille|sensitive|racialized/xenophobic slur context possible; means scum/underclass and can be used as an insulting discriminatory term
+religieuse|sensitive|religious woman/nun; strongly related to religion
+religieux|sensitive|related to religion; means "religious"
+républicain|sensitive|Republican; political/ideological affiliation
+républicains|sensitive|Republicans; political/ideological affiliation
+retardé|profane|retarded; insulting slur for someone seen as stupid or mentally disabled
+révérend|sensitive|reverend; strong religious title
+russe|sensitive|Russian; nationality/national identity
+sacré|sensitive|can have strong religious connotations, meaning sacred or holy
+sacrées|sensitive|related to sacred or holy things, with religious meaning
+sacrés|sensitive|related to the sacred or holy; religious connotation
+sainte|sensitive|holy/feminine form of "saint"; strongly related to religion
+salauds|profane|insult meaning bastards
+salive|sex|saliva/spit; can have sexual connotations in some contexts
+saoule|profane|drunk / wasted; colloquial intoxication term
+satané|profane|damned; a mild profanity derived from “Satan”
+satanée|sensitive|derived from "Satan," a religiously sensitive term
+sexuelle|sex|related to sexuality; sexual
+sexuelles|sex|sexual; directly related to sex
+sexuels|sex|related to sexual matters; plural of “sexual”
+sniper|sensitive|sniper; weapon/violent combat term that can be sensitive
+sorcellerie|sensitive|witchcraft; strongly related to religion/occult beliefs
+sorcière|sensitive|witch; strongly related to religion/occult beliefs
+sorciers|sensitive|witches/wizards; related to occult or religious/spiritual themes
+soviétique|sensitive|Soviet; ideological/political adjective
+suce|sex|can mean "sucks," but also refers to oral sex in vulgar usage
+sucé|sex|past participle of slang verb meaning sucked; can refer to oral sex
+sucer|sex|to suck; commonly used in sexual contexts
+suédois|sensitive|Swedish; nationality
+suicider|profane|to commit suicide; self-harm related term
+suisse|sensitive|Swiss; nationality-related term
+tabasser|profane|to beat up violently; aggressive/violent term
+taré|profane|French insult meaning "retarded" or "idiot," considered offensive
+tarée|profane|French insult meaning "crazy" or "deranged" when used about a person
+tarés|profane|slur meaning crazies/nutcases; derogatory toward mental disability
+tétons|sex|nipples/breasts; explicitly sexual body term
+thune|profane|slang for money; informal/crude register
+torturer|profane|to torture; strongly violent and abusive term
+trafiquant|profane|trafficker/dealer; often associated with illegal drug trade
+tripoter|sex|to fondle or grope someone sexually
+tuerait|profane|would kill; explicit reference to killing/violence
+tueras|profane|means "you will kill"; violent/offensive term
+tuerie|profane|killing/massacre; violent and disturbing term
+vicieux|sex|can mean sexually perverted/lewd depending on context
+violation|sex|rape/sexual assault-related term; strongly associated with sexual violence
+vomi|profane|vomit; crude bodily-fluid term
+voyou|profane|thug/delinquent; insulting term for a criminal or hooligan
+vulgaire|profane|vulgar/coarse; directly associated with obscene or crude language
+zizi|sex|childish/slang term for penis
