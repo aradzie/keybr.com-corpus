@@ -56,6 +56,7 @@ diosa
 dioses
 disparos
 diwali
+drogas
 escupe
 escupió
 escupir
@@ -75,6 +76,7 @@ gitano
 gitanos
 hanukkah
 heroína
+homicidio
 homosexual
 homosexuales
 homosexualidad
@@ -167,8 +169,11 @@ rabinos
 racismo
 racistas
 ramadán
+religión
 religiones
+religiosa
 religioso
+religiosos
 reza
 rezaba
 rezando

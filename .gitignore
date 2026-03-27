@@ -5,6 +5,7 @@ tmp/
 sandbox/
 .vscode/
 .idea/
+__pycache__/
 .env
 .env.*
 *.rejected
