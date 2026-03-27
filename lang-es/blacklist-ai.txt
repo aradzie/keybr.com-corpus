@@ -1,227 +1,227 @@
-muerto|sensitive|dead; death-related term
-muerte|sensitive|death; death-related term
-guerra|sensitive|war; violence/conflict-related term
-morir|sensitive|to die; death-related term
-diablos|profane|“damn”/“hell”; mild curse derived from “devils,” used as an expletive
-loca|profane|insult meaning crazy woman / madwoman
-derecha|sensitive|right-wing; can refer to political ideology or the political right
-trasero|sensitive|buttocks/rear end; body-part term with sexual or crude connotations
-izquierda|sensitive|left-wing; can refer to political ideology or the political left
-bomba|sensitive|bomb; explosive weapon-related term
-matado|sensitive|killed; violence-related term
-diablo|profane|devil; can be used as a mild profanity or curse word in Spanish
-fe|sensitive|faith; strongly related to religion,
-embarazada|sex|pregnant; strongly related to sex/reproduction
-inglés|sensitive|English; nationality/language-related term,
-coger|sex|In some Spanish dialects, especially in Latin America, this verb is a vulgar slang term meaning "to have sex",
-estúpida|profane|Insult meaning "stupid" addressed to a female,
-borracho|profane|Insulting term meaning "drunk" or "drunkard",
-huevos|profane|Literally "eggs," but commonly used in vulgar slang to refer to testicles
-usa|sensitive|can refer to the United States (nationality/country reference)
-pecho|sex|chest/breast; can be strongly related to sexual body references
-metido|profane|can be used in insulting expressions like “mal metido” or imply vulgar context
-polvo|sex|literally "dust," but also a common colloquial term for sex / sexual encounter
-negros|sensitive|literally "black people" / "blacks"; can relate to race or ethnicity and may be sensitive depending on context
-cura|sensitive|can mean "priest," which is strongly related to religion
-negra|sensitive|black; may refer to race or ethnicity depending on context
-americano|sensitive|American; nationality-related term
-francés|sensitive|French; nationality-related term
-blancos|sensitive|can refer to "whites" as a racial or nationality-related term depending on context
-ángel|sensitive|religious term meaning "angel"
-alemanes|sensitive|Germans; nationality term
-mato|profane|from "matar" (I kill/he killed); violent term
-bruja|sensitive|witch; term strongly related to religion/occult belief systems
-americanos|sensitive|Americans; nationality-related term referring to people from America/United States.
-homicidio|profane|homicide; violent killing
-alemán|sensitive|German; nationality adjective/noun
-bombas|profane|literally “bombs”; strongly associated with violence/explosives
-pecado|sensitive|sin; strongly religious term
-rusos|sensitive|Russians; nationality-related term
-cállate|profane|“shut up”; rude/insulting command, potentially offensive
-harto|profane|can mean “fed up” or “damn/full of it”; mildly vulgar in some contexts
-matará|profane|“will kill”; violent/offensive term
-salvado|sensitive|“saved/salvation”; can be strongly associated with religion in some contexts
-morirá|profane|“will die”; death-related term, potentially disturbing/inappropriate
-ruso|sensitive|Russian; nationality-related term
-chino|sensitive|Chinese; nationality/ethnicity term
-terrorista|sensitive|terrorist; strongly related to ideology/political violence
-bendiga|sensitive|from "bendecir" / "bless"; strongly related to religion
-español|sensitive|Spanish; a nationality/language term, which can be sensitive in nationality contexts
-porquería|profane|mild insult meaning “junk,” “crap,” or “filth”
-jodida|profane|vulgar term meaning “fucked” or “damned,” from the verb “joder”
-cogido|sex|in many Latin American varieties, vulgar sexual term meaning “fucked” or “had sex”
-trasera|sex|slang for butt/rear, can be used with sexual connotation
-sucia|profane|means “dirty/filthy”; can be insulting or inappropriate in some contexts
-religión|sensitive|religion; strongly related to religious belief
-sexuales|sex|sexual; directly related to sex
-desnuda|sex|nude; directly related to nudity/sexual context
-estadounidense|sensitive|relating to the United States or its people; nationality-related term
-italiano|sensitive|Italian; nationality term
-franceses|sensitive|French people; nationality term
-estúpidos|profane|stupid idiots; insulting/profane term
-coge|sex|verb that in some regions can be used with a sexual meaning (“to have sex”), though it is neutral in many varieties of Spanish
-asesina|profane|word meaning “female murderer/killer,” strongly associated with violent wrongdoing
-marihuana|sex|marijuana; drug-related term, often considered inappropriate content
-sagrado|sensitive|sacred; strongly related to religion
-jodan|profane|plural imperative/subjunctive of "joder"; vulgar equivalent of "fuck"
-americana|sensitive|can refer to "American" (nationality-related term) depending on context
-esclavo|sensitive|means "slave"; can be sensitive due to oppression/race-related context
-fiel|sensitive|means "faithful"; can be strongly associated with religion ("the faithful")
-chinos|sensitive|can refer to Chinese people/nationality; nationality terms are sensitive depending on context
-meterte|sex|from "meter", can have sexual slang meaning "to put it in/to penetrate" depending on context
-japoneses|sensitive|refers to Japanese people; nationality/ethnicity-related term
-estadounidenses|sensitive|refers to Americans/people from the United States; nationality-related term
-ingleses|sensitive|English people; nationality-related term
-francesa|sensitive|French woman/French; nationality-related term
-disparando|sensitive|shooting/firing a weapon; strongly related to gun violence
-indio|sensitive|Indian/Indigenous person; nationality/ethnicity-related term that can be sensitive
-bastardos|profane|bastards; insult/profane term
-brujas|sensitive|witches; strongly related to religion/occult belief systems
-rusa|sensitive|Russian woman / Russian; nationality-related term
-mafia|sensitive|mafia; organized crime-related term
-espiritual|sensitive|spiritual; strongly related to religion or belief systems
-macho|sensitive|male/man; can be gender-related language
-jodas|profane|from "joder"; vulgar expression meaning "don't fuck/joke around"
-japonés|sensitive|Japanese; nationality term
-parto|sex|childbirth/labor; strongly related to reproduction
-jovencita|sex|young girl; can be sexualized or age-sensitive in some contexts
-jodidos|profane|Spanish profanity meaning “fucked” or “screwed”; vulgar intensifier/insult depending on context.
-capullo|profane|literally "cocoon/bud," but commonly used in Spain as an insult meaning "idiot" or "asshole"
-francos|sensitive|can refer to supporters of Franco / Francoist ideology in Spanish historical-political context
-embarazo|sex|pregnancy; strongly related to sex/reproduction
-británico|sensitive|British; nationality term
-oración|sensitive|prayer; strongly related to religion
-traficante|profane|drug trafficker/criminal term; inappropriate in many moderation contexts
-retrasado|profane|retarded/mentally slow; insulting slur in Spanish usage
-rojos|sensitive|“reds”; can refer to a political/ideological group
-cogió|sex|in some Spanish variants, from “coger,” which can be a vulgar sexual verb
-jodiendo|profane|from “joder,” a vulgar profanity meaning “fucking” or “messing around”
-pito|sex|slang that can refer to penis in Spanish
-drogado|profane|drugged; strongly associated with drug use/intoxication, considered inappropriate content
-putos|profane|plural of "puto," a common Spanish insult/profanity meaning "fucking" or "whores/gay slur" depending on context
-excitante|sex|can mean "arousing" or "sexually exciting" in some contexts
-orinar|sex|to urinate; bodily-function term that may be considered sexual/inappropriate in content filtering contexts
-británicos|sensitive|British people; nationality-related term
-salvación|sensitive|religious term meaning "salvation"
-milagros|sensitive|religious term meaning "miracles"
-ebrio|profane|means "drunk"; potentially inappropriate due to intoxication context
-estúpidas|profane|insult meaning "stupid" (feminine plural)
-lárgate|profane|imperative meaning “get the hell out” / “go away,” considered rude or insulting
-reverendo|sensitive|“reverend,” a strongly religion-related term
-morgue|sensitive|morgue; death-related term that may be considered sensitive
-homicidios|sensitive|homicides; killing-related term that may be considered sensitive
-inglesa|sensitive|English woman / English; nationality-related term
-cristiano|sensitive|Christian; strongly related to religion
-mear|profane|to piss; vulgar/inappropriate bodily function term
-alemana|sensitive|German woman/German; related to nationality
-cagar|profane|to shit; vulgar term for defecating
-griego|sensitive|Greek; nationality/ethnic identity
-romanos|sensitive|Romans; nationality/ethnic/cultural identity
-salve|sensitive|religious/liturgical greeting or invocation
-escoria|profane|scum; insulting derogatory term for a person
-cogí|sex|In some Spanish dialects, from the verb "coger," which can be a vulgar sexual term meaning "I fucked" or "I had sex"
-misa|sensitive|Mass; a strongly religion-related term in Christianity/Catholicism
-italianos|sensitive|Italians; nationality term
-sagrada|sensitive|sacred; strongly religious term
-irlandés|sensitive|Irish; nationality term
-masacre|profane|violent term meaning “massacre,” associated with extreme harm or brutality
-consentimiento|sex|term meaning “consent,” often strongly associated with sexual context
-judía|sensitive|Jewish; refers to religion/ethnicity/nationality
-joda|profane|slang/vulgar term meaning "joke," "mess," or "damn/fucking around" depending on context
-divino|sensitive|related to divinity or religion ("divine")
-intimidad|sex|intimacy; can be related to sexual context
-cago|profane|first-person form of a vulgar verb meaning "I shit"; also used as a mild curse in Spanish
-árabe|sensitive|Arab; nationality/ethnic identity term
-suicidarse|sensitive|to commit suicide; self-harm related sensitive term
-homicida|profane|killer or homicidal person; strongly associated with violent harm
-divina|sensitive|divine; strongly related to religion
-sobredosis|profane|overdose; strongly associated with drugs and self-harm/drug abuse
 aborto|sex|abortion
+acoso|sensitive|harassment; potentially abusive or harmful conduct
+alcohólico|profane|related to alcoholism; potentially inappropriate reference to an alcoholic person
+alemán|sensitive|German; nationality adjective/noun
+alemana|sensitive|German woman/German; related to nationality
+alemanes|sensitive|Germans; nationality term
+americana|sensitive|can refer to "American" (nationality-related term) depending on context
+americanas|sensitive|related to American nationality/national identity
+americano|sensitive|American; nationality-related term
+americanos|sensitive|Americans; nationality-related term referring to people from America/United States.
+ángel|sensitive|religious term meaning "angel"
+ano|sex|anus; also commonly read as “year” without tilde, but as written it can denote the anus
+anos|sex|“Anos” means “anuses” in Spanish, a sexual/anatomical term.
+árabe|sensitive|Arab; nationality/ethnic identity term
+árabes|sensitive|Arabs; refers to an ethnic/national group
+asesina|profane|word meaning “female murderer/killer,” strongly associated with violent wrongdoing
+bastardos|profane|bastards; insult/profane term
+bendiga|sensitive|from "bendecir" / "bless"; strongly related to religion
+bendita|sensitive|religious term meaning “blessed”
+blancos|sensitive|can refer to "whites" as a racial or nationality-related term depending on context
+bomba|sensitive|bomb; explosive weapon-related term
+bombas|profane|literally “bombs”; strongly associated with violence/explosives
+borracho|profane|Insulting term meaning "drunk" or "drunkard",
+británica|sensitive|Refers to British nationality/identity
+británico|sensitive|British; nationality term
+británicos|sensitive|British people; nationality-related term
+bruja|sensitive|witch; term strongly related to religion/occult belief systems
+brujas|sensitive|witches; strongly related to religion/occult belief systems
+brujería|sensitive|witchcraft; strongly related to religion or occult belief
+brujo|sensitive|witch doctor/sorcerer; strongly associated with religion, superstition, or belief systems
+burdel|sex|brothel; place associated with prostitution
+cagado|profane|literally "shat" or "covered in shit"; also used as a vulgar insult or to mean frightened/messed up
+cagar|profane|to shit; vulgar term for defecating
+cago|profane|first-person form of a vulgar verb meaning "I shit"; also used as a mild curse in Spanish
+cállate|profane|“shut up”; rude/insulting command, potentially offensive
+calzoncillos|sex|underwear; term related to intimate clothing
+calzones|sex|underwear; can be used in sexual contexts
+capullo|profane|literally "cocoon/bud," but commonly used in Spain as an insult meaning "idiot" or "asshole"
+caray|profane|mild exclamation similar to “damn” or “heck”
+cardenal|sensitive|cardinal; a high-ranking Catholic Church official, strongly related to religion
+católica|sensitive|related to Catholicism, a major religion
+católico|sensitive|Catholic; strongly related to religion
+chino|sensitive|Chinese; nationality/ethnicity term
+chinos|sensitive|can refer to Chinese people/nationality; nationality terms are sensitive depending on context
+coge|sex|verb that in some regions can be used with a sexual meaning (“to have sex”), though it is neutral in many varieties of Spanish
+coger|sex|In some Spanish dialects, especially in Latin America, this verb is a vulgar slang term meaning "to have sex",
+cogeré|sex|in some Spanish varieties, from verb "coger", which can be a vulgar sexual term meaning "to fuck"
+cogerlo|sex|In many Spanish-speaking regions, "coger" is a vulgar sexual verb meaning "to have sex" or "to fuck"
+coges|sex|from "coger"; in many Spanish varieties it is a vulgar sexual term meaning "you fuck"
+cogí|sex|In some Spanish dialects, from the verb "coger," which can be a vulgar sexual term meaning "I fucked" or "I had sex"
+cogido|sex|in many Latin American varieties, vulgar sexual term meaning “fucked” or “had sex”
+cogiendo|sex|gerund of "coger"; in many Spanish varieties it is used to mean "having sex"
+cogió|sex|in some Spanish variants, from “coger,” which can be a vulgar sexual verb
+cogiste|sex|from the verb "coger"; in many Spanish-speaking regions it is strongly associated with sexual intercourse
+coja|profane|can be used as a derogatory slur for a crippled or lame person in some contexts
+condón|sex|condom; contraception-related sexual term
+consentimiento|sex|term meaning “consent,” often strongly associated with sexual context
+coreano|sensitive|Korean; nationality/ethnic identifier
+cristiana|sensitive|related to Christianity/religion
+cristiano|sensitive|Christian; strongly related to religion
+cura|sensitive|can mean "priest," which is strongly related to religion
+curas|sensitive|priests; strongly related to religion
+derecha|sensitive|right-wing; can refer to political ideology or the political right
+desgraciada|profane|insult meaning “wretched woman” or “damned woman”
+desnuda|sex|nude; directly related to nudity/sexual context
+desnudas|sex|naked women / feminine plural of naked
+diablo|profane|devil; can be used as a mild profanity or curse word in Spanish
+diablos|profane|“damn”/“hell”; mild curse derived from “devils,” used as an expletive
+disparando|sensitive|shooting/firing a weapon; strongly related to gun violence
+divina|sensitive|divine; strongly related to religion
+divino|sensitive|related to divinity or religion ("divine")
+drogada|sensitive|related to being drugged or under the influence of drugs
+drogadicto|sensitive|term related to drug addiction; can be considered stigmatizing or sensitive content
+drogado|profane|drugged; strongly associated with drug use/intoxication, considered inappropriate content
+ebria|profane|drunk woman; can be considered insulting or inappropriate in some contexts
+ebrio|profane|means "drunk"; potentially inappropriate due to intoxication context
+embarazada|sex|pregnant; strongly related to sex/reproduction
+embarazo|sex|pregnancy; strongly related to sex/reproduction
+encuentros|sex|can refer to sexual encounters depending on context
+erección|sex|erection; sexual arousal/penile erection
+esclava|sensitive|means “female slave,” related to oppression and identity-sensitive context
+esclavo|sensitive|means "slave"; can be sensitive due to oppression/race-related context
+escocés|sensitive|Refers to a Scottish nationality/ethnic identity
+escoria|profane|scum; insulting derogatory term for a person
+español|sensitive|Spanish; a nationality/language term, which can be sensitive in nationality contexts
+española|sensitive|Spanish woman; nationality term
+españoles|sensitive|Spanish people; nationality term
+espiritual|sensitive|spiritual; strongly related to religion or belief systems
+estadounidense|sensitive|relating to the United States or its people; nationality-related term
+estadounidenses|sensitive|refers to Americans/people from the United States; nationality-related term
+estúpida|profane|Insult meaning "stupid" addressed to a female,
+estúpidas|profane|insult meaning "stupid" (feminine plural)
+estúpidos|profane|stupid idiots; insulting/profane term
+excitante|sex|can mean "arousing" or "sexually exciting" in some contexts
+fe|sensitive|faith; strongly related to religion,
+fiel|sensitive|means "faithful"; can be strongly associated with religion ("the faithful")
+francés|sensitive|French; nationality-related term
+francesa|sensitive|French woman/French; nationality-related term
+franceses|sensitive|French people; nationality term
+francos|sensitive|can refer to supporters of Franco / Francoist ideology in Spanish historical-political context
+griego|sensitive|Greek; nationality/ethnic identity
+griegos|sensitive|Greeks; nationality/ethnicity-related term
+guerra|sensitive|war; violence/conflict-related term
+harto|profane|can mean “fed up” or “damn/full of it”; mildly vulgar in some contexts
+homicida|profane|killer or homicidal person; strongly associated with violent harm
+homicidio|profane|homicide; violent killing
+homicidios|sensitive|homicides; killing-related term that may be considered sensitive
+horca|sensitive|gallows; violent/execution-related sensitive term
+hostia|profane|Spanish exclamation/literal “host”; commonly used as a curse word similar to “damn” or “holy shit”
+huevos|profane|Literally "eggs," but commonly used in vulgar slang to refer to testicles
+indio|sensitive|Indian/Indigenous person; nationality/ethnicity-related term that can be sensitive
+inglés|sensitive|English; nationality/language-related term,
+inglesa|sensitive|English woman / English; nationality-related term
+ingleses|sensitive|English people; nationality-related term
+inmigración|sensitive|immigration; related to nationality and migration status
+inmigrantes|sensitive|immigrants; nationality/ethnicity-related sensitive term
+intimidad|sex|intimacy; can be related to sexual context
+íntimos|sex|intimate; can refer to intimate or sexual relations
+irlandés|sensitive|Irish; nationality term
+irlandeses|sensitive|Irish people; nationality-related term
+italiana|sensitive|Italian woman/feminine of Italian; nationality-related term
+italiano|sensitive|Italian; nationality term
+italianos|sensitive|Italians; nationality term
+izquierda|sensitive|left-wing; can refer to political ideology or the political left
+japonés|sensitive|Japanese; nationality term
+japonesa|sensitive|Japanese woman/person; nationality-related term
+japoneses|sensitive|refers to Japanese people; nationality/ethnicity-related term
+joda|profane|slang/vulgar term meaning "joke," "mess," or "damn/fucking around" depending on context
+jodan|profane|plural imperative/subjunctive of "joder"; vulgar equivalent of "fuck"
+jodas|profane|from "joder"; vulgar expression meaning "don't fuck/joke around"
+jodida|profane|vulgar term meaning “fucked” or “damned,” from the verb “joder”
+jodidos|profane|Spanish profanity meaning “fucked” or “screwed”; vulgar intensifier/insult depending on context.
+jodiendo|profane|from “joder,” a vulgar profanity meaning “fucking” or “messing around”
+jovencita|sex|young girl; can be sexualized or age-sensitive in some contexts
+judía|sensitive|Jewish; refers to religion/ethnicity/nationality
+judías|sensitive|can refer to Jewish people; related to religion/ethnicity
+lárgate|profane|imperative meaning “get the hell out” / “go away,” considered rude or insulting
+latín|sensitive|Latin; can relate to ethnicity, nationality, or cultural identity
+loca|profane|insult meaning crazy woman / madwoman
+macho|sensitive|male/man; can be gender-related language
+mafia|sensitive|mafia; organized crime-related term
+marihuana|sex|marijuana; drug-related term, often considered inappropriate content
+mártir|sensitive|martyr; strongly related to religion or ideology
+masacre|profane|violent term meaning “massacre,” associated with extreme harm or brutality
+matado|sensitive|killed; violence-related term
+matará|profane|“will kill”; violent/offensive term
+matarás|profane|contains the verb "you will kill"; strongly violent/inappropriate
+mato|profane|from "matar" (I kill/he killed); violent term
+mear|profane|to piss; vulgar/inappropriate bodily function term
+meterte|sex|from "meter", can have sexual slang meaning "to put it in/to penetrate" depending on context
+metido|profane|can be used in insulting expressions like “mal metido” or imply vulgar context
+mexicano|sensitive|Mexican; nationality term
+mexicanos|sensitive|Mexicans; nationality term
+milagros|sensitive|religious term meaning "miracles"
+ministerio|sensitive|ministry; strongly associated with religion or government institutions
+misa|sensitive|Mass; a strongly religion-related term in Christianity/Catholicism
+monjas|sensitive|nuns; strongly related to religion
+morgue|sensitive|morgue; death-related term that may be considered sensitive
+morir|sensitive|to die; death-related term
+morirá|profane|“will die”; death-related term, potentially disturbing/inappropriate
+muerte|sensitive|death; death-related term
+muerto|sensitive|dead; death-related term
+negra|sensitive|black; may refer to race or ethnicity depending on context
+negros|sensitive|literally "black people" / "blacks"; can relate to race or ethnicity and may be sensitive depending on context
+norteamericano|sensitive|nationality term meaning "North American"
+norteamericanos|sensitive|North Americans; nationality-related term
+oración|sensitive|prayer; strongly related to religion
+oral|sex|can refer to oral sex in sexual contexts
+orinar|sex|to urinate; bodily-function term that may be considered sexual/inappropriate in content filtering contexts
+parto|sex|childbirth/labor; strongly related to reproduction
+patán|profane|insult meaning “jerk,” “lout,” or “boor”
+pecado|sensitive|sin; strongly religious term
+pecho|sex|chest/breast; can be strongly related to sexual body references
+pipí|sex|childish term for pee/urine, related to bodily/sexual content
+pito|sex|slang that can refer to penis in Spanish
+plegarias|sensitive|prayers; strongly related to religion
+pocilga|profane|pigsty/filthy place; used as an insult for a disgusting place or situation
+polaco|sensitive|Polish; nationality term
+polvo|sex|literally "dust," but also a common colloquial term for sex / sexual encounter
+porquería|profane|mild insult meaning “junk,” “crap,” or “filth”
+porro|sex|in some contexts slang for a joint; also can be vulgar slang in some regions
+predicador|sensitive|preacher; strongly related to religion
+putos|profane|plural of "puto," a common Spanish insult/profanity meaning "fucking" or "whores/gay slur" depending on context
+religión|sensitive|religion; strongly related to religious belief
+religiosa|sensitive|religious; related to religion
+religiosos|sensitive|religious people; strongly related to religion
+retrasado|profane|retarded/mentally slow; insulting slur in Spanish usage
+retrete|profane|toilet/latrine; vulgar bodily-function-related term in some contexts
+revelación|sensitive|revelation; strongly associated with religion in some contexts
+reverendo|sensitive|“reverend,” a strongly religion-related term
+rezo|sensitive|prayer; religious term
+rojos|sensitive|“reds”; can refer to a political/ideological group
+romanos|sensitive|Romans; nationality/ethnic/cultural identity
+rusa|sensitive|Russian woman / Russian; nationality-related term
+ruso|sensitive|Russian; nationality-related term
+rusos|sensitive|Russians; nationality-related term
+sacerdotes|sensitive|priests; strongly related to religion
+sagrada|sensitive|sacred; strongly religious term
+sagrado|sensitive|sacred; strongly related to religion
+salvación|sensitive|religious term meaning "salvation"
+salvado|sensitive|“saved/salvation”; can be strongly associated with religion in some contexts
+salve|sensitive|religious/liturgical greeting or invocation
+santuario|sensitive|religious sanctuary or holy place
+seminario|sensitive|seminary; religious training institution
+seno|sex|Breast/bosom; also means sinus in other contexts, but can be sexual/body-related here
+sensual|sex|sensual; explicitly related to sexual attraction
+sexuales|sex|sexual; directly related to sex
+sobredosis|profane|overdose; strongly associated with drugs and self-harm/drug abuse
+sostén|sex|bra; also means "support" in general, but commonly refers to women's underwear
+soviéticos|sensitive|related to Soviet political/national identity/ideology
+sucia|profane|means “dirty/filthy”; can be insulting or inappropriate in some contexts
+suicidarse|sensitive|to commit suicide; self-harm related sensitive term
+tarado|profane|insult meaning "idiot" or "moron"
+tentación|sensitive|religious term meaning “temptation,” strongly associated with sin and religious context
+terrorista|sensitive|terrorist; strongly related to ideology/political violence
+testículos|sex|testicles; male genitalia
+tocarme|sex|to touch oneself / touch me; can have sexual connotation depending on context
+traficante|profane|drug trafficker/criminal term; inappropriate in many moderation contexts
+trasera|sex|slang for butt/rear, can be used with sexual connotation
+trasero|sensitive|buttocks/rear end; body-part term with sexual or crude connotations
+turco|sensitive|Turkish; denotes nationality/ethnicity
+usa|sensitive|can refer to the United States (nationality/country reference)
+útero|sex|uterus; female reproductive organ
+violada|sex|means "raped" or "sexually violated"; strongly related to sexual violence
+violado|sex|past participle of "violar"; commonly means "raped" or "sexually violated"
 violar|sex|to rape; sexual assault
 violó|sex|he/she raped; sexual assault
-religiosa|sensitive|religious; related to religion
-acoso|sensitive|harassment; potentially abusive or harmful conduct
-coja|profane|can be used as a derogatory slur for a crippled or lame person in some contexts
-mexicano|sensitive|Mexican; nationality term
-calzoncillos|sex|underwear; term related to intimate clothing
-tocarme|sex|to touch oneself / touch me; can have sexual connotation depending on context
-tentación|sensitive|religious term meaning “temptation,” strongly associated with sin and religious context
-esclava|sensitive|means “female slave,” related to oppression and identity-sensitive context
-sostén|sex|bra; also means "support" in general, but commonly refers to women's underwear
-italiana|sensitive|Italian woman/feminine of Italian; nationality-related term
-tarado|profane|insult meaning "idiot" or "moron"
-cogiendo|sex|gerund of "coger"; in many Spanish varieties it is used to mean "having sex"
-drogadicto|sensitive|term related to drug addiction; can be considered stigmatizing or sensitive content
-santuario|sensitive|religious sanctuary or holy place
-calzones|sex|underwear; can be used in sexual contexts
-burdel|sex|brothel; place associated with prostitution
-latín|sensitive|Latin; can relate to ethnicity, nationality, or cultural identity
-condón|sex|condom; contraception-related sexual term
-sensual|sex|sensual; explicitly related to sexual attraction
-japonesa|sensitive|Japanese woman/person; nationality-related term
-griegos|sensitive|Greeks; nationality/ethnicity-related term
-violado|sex|past participle of "violar"; commonly means "raped" or "sexually violated"
-cogerlo|sex|In many Spanish-speaking regions, "coger" is a vulgar sexual verb meaning "to have sex" or "to fuck"
-escocés|sensitive|Refers to a Scottish nationality/ethnic identity
-británica|sensitive|Refers to British nationality/identity
-árabes|sensitive|Arabs; refers to an ethnic/national group
-sacerdotes|sensitive|priests; strongly related to religion
-erección|sex|erection; sexual arousal/penile erection
-católico|sensitive|Catholic; strongly related to religion
-coges|sex|from "coger"; in many Spanish varieties it is a vulgar sexual term meaning "you fuck"
-cogeré|sex|in some Spanish varieties, from verb "coger", which can be a vulgar sexual term meaning "to fuck"
-norteamericano|sensitive|nationality term meaning "North American"
-alcohólico|profane|related to alcoholism; potentially inappropriate reference to an alcoholic person
-matarás|profane|contains the verb "you will kill"; strongly violent/inappropriate
-cristiana|sensitive|related to Christianity/religion
-testículos|sex|testicles; male genitalia
-revelación|sensitive|revelation; strongly associated with religion in some contexts
-desnudas|sex|naked women / feminine plural of naked
-norteamericanos|sensitive|North Americans; nationality-related term
-irlandeses|sensitive|Irish people; nationality-related term
-seminario|sensitive|seminary; religious training institution
-cagado|profane|literally "shat" or "covered in shit"; also used as a vulgar insult or to mean frightened/messed up
-católica|sensitive|related to Catholicism, a major religion
-soviéticos|sensitive|related to Soviet political/national identity/ideology
-violada|sex|means "raped" or "sexually violated"; strongly related to sexual violence
-retrete|profane|toilet/latrine; vulgar bodily-function-related term in some contexts
-oral|sex|can refer to oral sex in sexual contexts
-anos|sex|“Anos” means “anuses” in Spanish, a sexual/anatomical term.
-cogiste|sex|from the verb "coger"; in many Spanish-speaking regions it is strongly associated with sexual intercourse
-útero|sex|uterus; female reproductive organ
-íntimos|sex|intimate; can refer to intimate or sexual relations
-predicador|sensitive|preacher; strongly related to religion
-mexicanos|sensitive|Mexicans; nationality term
-monjas|sensitive|nuns; strongly related to religion
-caray|profane|mild exclamation similar to “damn” or “heck”
-patán|profane|insult meaning “jerk,” “lout,” or “boor”
-cardenal|sensitive|cardinal; a high-ranking Catholic Church official, strongly related to religion
-plegarias|sensitive|prayers; strongly related to religion
-ano|sex|anus; also commonly read as “year” without tilde, but as written it can denote the anus
-bendita|sensitive|religious term meaning “blessed”
-polaco|sensitive|Polish; nationality term
-turco|sensitive|Turkish; denotes nationality/ethnicity
-hostia|profane|Spanish exclamation/literal “host”; commonly used as a curse word similar to “damn” or “holy shit”
-americanas|sensitive|related to American nationality/national identity
-rezo|sensitive|prayer; religious term
-española|sensitive|Spanish woman; nationality term
-horca|sensitive|gallows; violent/execution-related sensitive term
-inmigrantes|sensitive|immigrants; nationality/ethnicity-related sensitive term
-españoles|sensitive|Spanish people; nationality term
-desgraciada|profane|insult meaning “wretched woman” or “damned woman”
-curas|sensitive|priests; strongly related to religion
-drogada|sensitive|related to being drugged or under the influence of drugs
-brujería|sensitive|witchcraft; strongly related to religion or occult belief
-judías|sensitive|can refer to Jewish people; related to religion/ethnicity
-mártir|sensitive|martyr; strongly related to religion or ideology
-encuentros|sex|can refer to sexual encounters depending on context
-religiosos|sensitive|religious people; strongly related to religion
-porro|sex|in some contexts slang for a joint; also can be vulgar slang in some regions
-coreano|sensitive|Korean; nationality/ethnic identifier
-seno|sex|Breast/bosom; also means sinus in other contexts, but can be sexual/body-related here
-pipí|sex|childish term for pee/urine, related to bodily/sexual content
-inmigración|sensitive|immigration; related to nationality and migration status
-ministerio|sensitive|ministry; strongly associated with religion or government institutions
-ebria|profane|drunk woman; can be considered insulting or inappropriate in some contexts
-brujo|sensitive|witch doctor/sorcerer; strongly associated with religion, superstition, or belief systems
-pocilga|profane|pigsty/filthy place; used as an insult for a disgusting place or situation

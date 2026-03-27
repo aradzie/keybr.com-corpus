@@ -986,7 +986,6 @@ comfort
 comfortable
 comic
 coming
-coming
 command
 commander
 comment
@@ -1996,7 +1995,6 @@ germany
 get
 gets
 getting
-getting
 ghost
 ghosts
 giant
@@ -2815,7 +2813,6 @@ longer
 look
 looked
 looking
-looking
 looks
 loose
 lord
@@ -3220,7 +3217,6 @@ nose
 not
 note
 notes
-nothing
 nothing
 notice
 noticed
@@ -4356,7 +4352,6 @@ somehow
 someone
 someplace
 something
-something
 sometime
 sometimes
 somewhat
@@ -4646,7 +4641,6 @@ tales
 talk
 talked
 talking
-talking
 talks
 tall
 tank
@@ -4910,7 +4904,6 @@ trunk
 trust
 trusted
 truth
-trying
 trying
 tub
 tube

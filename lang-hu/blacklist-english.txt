@@ -131,7 +131,6 @@ allison
 allow
 allowed
 allows
-ally
 almighty
 almost
 alone
@@ -142,6 +141,7 @@ alright
 alternative
 although
 always
+ally
 amanda
 amazing
 ambassador
@@ -446,13 +446,13 @@ believes
 believing
 bell
 bells
-belly
 belong
 belonged
 belongs
 beloved
 below
 belt
+belly
 ben
 bench
 bend
@@ -471,8 +471,8 @@ beth
 betray
 betrayed
 better
-betty
 between
+betty
 beyond
 bible
 bid
@@ -992,7 +992,6 @@ comes
 comfort
 comfortable
 comic
-coming
 coming
 command
 commander
@@ -2013,7 +2012,6 @@ germany
 get
 gets
 getting
-getting
 ghost
 ghosts
 giant
@@ -2085,9 +2083,9 @@ grandma
 grandmother
 grandpa
 grandson
-granny
 grant
 granted
+granny
 grass
 grateful
 grave
@@ -2290,10 +2288,10 @@ hole
 holes
 holiday
 holidays
-holly
-hollywood
 holmes
 holy
+holly
+hollywood
 home
 homeless
 homer
@@ -2553,8 +2551,8 @@ joe
 joel
 joey
 john
-johnny
 johnson
+johnny
 join
 joined
 joining
@@ -2610,8 +2608,8 @@ keith
 kelly
 ken
 kennedy
-kenny
 kent
+kenny
 kept
 kevin
 key
@@ -2838,7 +2836,6 @@ long
 longer
 look
 looked
-looking
 looking
 looks
 loose
@@ -3243,7 +3240,6 @@ nose
 not
 note
 notes
-nothing
 nothing
 notice
 noticed
@@ -4048,8 +4044,8 @@ salad
 salary
 sale
 sales
-sally
 salt
+sally
 sam
 samantha
 same
@@ -4276,8 +4272,8 @@ signs
 silence
 silent
 silk
-silly
 silver
+silly
 similar
 simon
 simple
@@ -4381,7 +4377,6 @@ somehow
 someone
 someplace
 something
-something
 sometime
 sometimes
 somewhat
@@ -4390,8 +4385,8 @@ son
 song
 songs
 sonic
-sonny
 sons
+sonny
 soon
 sooner
 sophie
@@ -4597,9 +4592,9 @@ sum
 summer
 sun
 sunday
-sunny
 sunset
 sunshine
+sunny
 superior
 superman
 supper
@@ -4669,7 +4664,6 @@ talented
 tales
 talk
 talked
-talking
 talking
 talks
 tall
@@ -4935,7 +4929,6 @@ trunk
 trust
 trusted
 truth
-trying
 trying
 tub
 tube

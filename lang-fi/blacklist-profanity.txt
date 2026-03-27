@@ -94,7 +94,6 @@ pillu
 pillut
 pipari
 piru
-piru
 pistää
 pyllyvako
 reikä
@@ -119,7 +118,6 @@ tussukka
 tussut
 vakipano
 viiksi
-vittu
 vittu
 vittuilla
 vittuilu
