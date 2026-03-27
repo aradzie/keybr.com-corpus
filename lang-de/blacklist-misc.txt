@@ -257,6 +257,7 @@ cape
 capra
 caracalla
 carrell
+casanova
 cassirer
 catan
 cavendish
@@ -317,6 +318,7 @@ cricket
 crowley
 crowleys
 curium
+curry
 cusco
 cuxhaven
 cyanobakterien

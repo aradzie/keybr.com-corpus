@@ -2,13 +2,15 @@ afghanistan
 ägypten
 albanien
 algerien
-amerikanische jungferninseln
+amerika
+amerikanische
 andorra
 angola
 anguilla
 antarktis
-antigua barbuda
+antigua
 äquatorialguinea
+arabische
 argentinien
 armenien
 aruba
@@ -19,44 +21,53 @@ bahamas
 bahrain
 bangladesch
 barbados
+barbuda
 belarus
 belgien
 belize
 benin
 bermuda
 bhutan
+birma
 bolivien
-bosnien herzegowina
-botsuana botswana
+bosnien
+botsuana
+botswana
 brasilien
-britische jungferninseln
+britische
 brunei
 bulgarien
-burkina faso
+burkina
+burma
 burundi
-caymaninseln kaimaninseln
+caicosinseln
+caymaninseln
+ceylon
 chile
 china
 cookinseln
-costa rica
+costa
 dänemark
-demokratische kongo
 deutschland
 deutschlands
 dominica
 dominikanische
 dschibuti
 ecuador
-el salvador
 elfenbeinküste
+emirate
+england
 eritrea
 estland
+eswatini
 falklandinseln
+faso
 fidschi
 finnland
-föderierte staaten mikronesien
 frankreich
 frankreichs
+französische
+futuna
 gabun
 gambia
 georgien
@@ -65,18 +76,21 @@ gibraltar
 grenada
 griechenland
 grönland
+großbritannien
 guadeloupe
 guam
 guatemala
 guinea
 guyana
 haiti
+herzegowina
+holland
 honduras
-hong kong
+hong
 indien
 indonesien
 irak
-iran persien
+iran
 irland
 island
 israel
@@ -85,24 +99,31 @@ jamaica
 japan
 jemen
 jordanien
+jungferninseln
+kaimaninseln
 kambodscha
 kamerun
 kanada
-kap verde
 kasachstan
 katar
+keelinginseln
 kenia
-kirgisistan kirgistan
+kirgisistan
+kirgistan
 kiribati
-kokosinseln keelinginseln
+kitts
+kokosinseln
 kolumbien
 komoren
+kong
 kongo
+korea
 kosovo
 kroatien
 kuba
 kuwait
 laos
+leone
 lesotho
 lettland
 libanon
@@ -119,6 +140,7 @@ malediven
 mali
 malta
 marianen
+marino
 marokko
 marshallinseln
 martinique
@@ -126,20 +148,23 @@ mauritanien
 mauritius
 mayotte
 mexico
-moldau moldavien
-monaco fürstentum monaco
+mikronesien
+moldau
+moldavien
+monaco
 mongolei
 montenegro
 montserrat
 mosambik
-myanmar birma burma
+myanmar
 namibia
 nauru
 nepal
 neukaledonien
 neuseeland
+nevis
 nicaragua
-niederlande holland
+niederlande
 niederlanden
 niger
 nigeria
@@ -151,78 +176,78 @@ oman
 österreichs
 osttimor
 pakistan
+palästina
 palau
 panama
 paraguay
+persien
 peru
 philippinen
 pitcairn
 polen
 portugal
-puerto rico
+puerto
 réunion
-ruanda rwanda
+rica
+rico
+ruanda
 rumänien
-russland russische föderation
+russische
+russland
+rwanda
 salomonen
+salvador
 sambia
 samoa
-san marino
-são tomé príncipe
 schweden
 schweiz
 senegal
 serbien
 seychellen
-sierra leone
+sierra
 simbabwe
 singapur
 slovenien
 slowakei
 somalia
 spanien
-sri lanka ceylon
-st. kitts nevis
-st. lucia
-st. vincent grenadinen
-staat palästina
 südafrika
 sudan
-südkorea korea
+südkorea
 südsudan
-suriname surinam
-swasiland eswatini
+surinam
+suriname
+swasiland
 syrien
 tadschikistan
 taiwan
 tansania
 thailand
 tibet
+tobago
 togo
 tokelau
 tonga
-trinidad tobago
+trinidad
 tschad
 tschechien
 tunesien
 türkei
 turkmenistan
-turks caicosinseln
+turks
 tuvalu
 uganda
 ukraine
 ungarn
 uruguay
+usa
 usbekistan
 vanuatu
-vatikanstadt heiliger stuhl
+vatikanstadt
 venezuela
-vereinigte arabische emirate
-vereinigte staaten amerika usa
-vereinigtes königreich großbritannien england
+verde
 vietnam
-volksrepublik
-wallis futuna
+wallis
 weihnachtsinsel
 weißrussland
 westsahara

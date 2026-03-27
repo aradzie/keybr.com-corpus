@@ -2568,6 +2568,7 @@ jung
 jungle
 junior
 junk
+junkie
 jury
 just
 justice
@@ -3685,6 +3686,7 @@ psycho
 pub
 public
 published
+pudding
 pull
 pulled
 pulling
