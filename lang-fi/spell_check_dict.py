@@ -18,6 +18,6 @@ def is_valid_word(word: str) -> bool:
 
 filter_dict(
   input_file=SCRIPT_DIR.parent / "raw" / "dict-fi.csv.gz",
-  output_file=SCRIPT_DIR / "dictionary-fi.csv",
+  output_file=SCRIPT_DIR / "dictionary-fi-spellchecked.csv",
   is_valid_word=is_valid_word,
 )

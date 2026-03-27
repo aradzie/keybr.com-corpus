@@ -6,8 +6,8 @@ import enchant
 from lib.filter_dict_lib import filter_dict
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-WORD_RE = re.compile(r"^[aąbcčdeęėfghiįyjklmnoprsštuųūvzž]+$")
-SPELL_DICTIONARY = enchant.Dict("lt_LT")
+WORD_RE = re.compile(r"^[aābcčdeēfgģhiījkķlļmnņoprsštuūvzž]+$")
+SPELL_DICTIONARY = enchant.Dict("lv_LV")
 
 
 def is_valid_word(word: str) -> bool:
@@ -17,7 +17,7 @@ def is_valid_word(word: str) -> bool:
 
 
 filter_dict(
-  input_file=SCRIPT_DIR.parent / "raw" / "dict-lt.csv.gz",
-  output_file=SCRIPT_DIR / "dictionary-lt.csv",
+  input_file=SCRIPT_DIR.parent / "raw" / "dict-lv.csv.gz",
+  output_file=SCRIPT_DIR / "dictionary-lv-spellchecked.csv",
   is_valid_word=is_valid_word,
 )
