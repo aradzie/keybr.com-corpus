@@ -1,5 +1,4 @@
-import dictionaryPtBr from "dictionary-pt";
-import dictionaryPtPt from "dictionary-pt-pt";
+import dictionary from "dictionary-pt";
 import { Language } from "../lib/language.js";
 
 const reAlphabet = /^[aáâãàbcçdeéêfghiíjlmnoóôõpqrstuúvxz]+$/;
@@ -18,5 +17,4 @@ const testWord = (word) => {
   return true;
 };
 
-export const ptPT = new Language("pt-PT", dictionaryPtPt, testWord);
-export const ptBR = new Language("pt-BR", dictionaryPtBr, testWord);
+export const pt_BR = new Language("pt-BR", dictionary, testWord);

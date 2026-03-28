@@ -1,7 +1,7 @@
 import { importRawDict } from "../lib/import-raw-dict.js";
-import { ptBR } from "./pt.js";
+import { pt_PT } from "./pt-PT.js";
 
 await importRawDict({
-  language: ptBR,
+  language: pt_PT,
   blacklistFiles: ["blacklist/english.txt"],
 });
